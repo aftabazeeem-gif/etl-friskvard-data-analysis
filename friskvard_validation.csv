@@ -1,0 +1,616 @@
+bokning_id,medlem_id,medlemstyp,medlem_startdatum,medlem_slutdatum,månadskostnad,födelseår,pass_id,passnamn,anläggning,instruktör,bokningsdatum,passdatum,passtid,status,feedback_text,feedbackdatum,feedback_betyg
+BOK-000701,MED-10124,Premium,2022-12-19,2025-04-24,599,1989.0,PASS-2024-07-15-701,Pilates,Malmö VH,David Chen,2024-07-11,2024-07-15,08:00,Genomförd,Gör vad det ska. Kunde varit mer utmanande.,2024-07-15,3.0
+BOK-002386,MED-10180,Premium,2022-10-07,2025-05-25,599,1983.0,PASS-2024-10-13-2386,HIIT,Sthlm Kungsholmen,Marcus Ek,2024-10-10,2024-10-13,07:30,Genomförd,Bra lokal men instruktören var lite seg.,2024-10-13,3.0
+BOK-002427,MED-10092,Bas,2023-04-12,2024/12/26,349,1997.0,PASS-2024-09-18-2427,Spinning,Örebro,Oscar Holm,2024-09-14,2024-09-18,19:00,Ej närvarande,,,
+BOK-001293,MED-10299,Bas,2022-07-28,2025-05-23,349,1984.0,PASS-2024-09-06-1293,HIIT,Lund,Fredrik Berg,30/08/2024,2024-09-06,17:00,No-show,,,
+BOK-001598,MED-10064,Student,2022-11-24,2024-09-30,249,1985.0,PASS-2024-12-03-1598,Spinning,,Anna Lindberg,30/11/2024,2024-12-03,17:00,Genomförd,,,
+BOK-002416,MED-10221,Premium,2023-04-11,2024-10-16,599,,PASS-2024-09-27-2416,dans,Linköping,Emma Larsson,21/09/2024,2024-09-27,18:00,Genomförd,,,
+BOK-001963,MED-10134,Premium,2023-12-28,2024-12-17,599,2000.0,PASS-2024-09-06-1963,Pilates,Malmö Västra Hamnen,David Chen,2024-09-02,2024-09-06,18:30,No-show,,,
+BOK-002958,MED-10288,Student,2023-06-26,2024-10-30,249,1987.0,PASS-2024-09-22-2958,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-15,2024-09-22,18:00,Genomförd,,,
+BOK-000584,MED-10080,Bas,2022-07-23,2024-10-22,349,1993.0,PASS-2024-11-03-584,Boxning,Stockholm Kungsholmen,,2024-11-01,2024-11-03,06:30,Genomförd,Standard boxning. Inget att klaga på.,2024-11-04,3.0
+BOK-001332,MED-10107,Bas,2022-07-16,2024-12-08,349,1992.0,PASS-2024-10-23-1332,HIIT,Stockholm City,Erik Johansson,2024-10-18,2024-10-23,18:00,NO-SHOW,,,
+BOK-001009,MED-10161,Bas,2023-03-29,2025-05-07,349,1984.0,PASS-2024-11-10-1009,Spinning,Malmö Centrum,Johan Bergström,8 november 2024,2024-11-10,12:00,Genomförd,,,
+BOK-000339,MED-10166,Premium,2024-03-05,2025/01/19,599,1980.0,PASS-2024-10-23-339,Boxing,Malmö Centrum,Johan Bergström,2024-10-19,2024-10-23,07:00,Genomförd,Dålig musik och tråkiga övningar.,2024-10-24,2.0
+BOK-000191,MED-10011,Student,2023-05-28,"June 21, 2025",249,1998.0,PASS-2024-11-24-191,Dans,LINKÖPING,Emma Larsson,2024-11-22,2024/11/24,19:00,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-11-24,3.0
+BOK-002758,MED-10218,Bas,2023-09-02,2025-06-07,349,1993.0,PASS-2024-10-28-2758,HIIT,Linköping,Emma Larsson,2024-10-22,2024-10-28,11:00,No-show,,,
+BOK-001031,MED-10002,Premium,2024-05-02,2024-10-16,599,1985.0,PASS-2024-09-16-1031,Dans,Linköping,Emma Larsson,2024-09-09,2024-09-16,07:00,GENOMFÖRD,Bästa danspasset jag varit på. Kommer tillbaka!,2024-09-17,5.0
+BOK-001674,MED-10243,Premium,2022-08-25,2025-01-24,599,,PASS-2024-09-12-1674,Yoga,Göteborg Centrum,Maria Santos,2024-09-05,2024-09-12,08:00,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-09-12,4.0
+BOK-000669,MED-10140,Bas,2022-09-23,2024-12-20,349,2025.0,PASS-2024-11-13-669,Spinning,Göteborg Hisingen,Sara Nilsson,2024-11-06,13/11/2024,07:30,Avbokad,,,
+BOK-002027,MED-10332,Bas,2024-04-16,2024-12-20,349,1994.0,PASS-2024-08-12-2027,Styrketräning,Stockholm City,Erik Johansson,2024-08-09,2024-08-12,08:00,Genomförd,Professionellt och välorganiserat pass.,2024-08-13,5.0
+BOK-001909,MED-10119,Premium,2024-05-07,2024-09-22,599,1986.0,PASS-2024-10-28-1909,Spinning,Malmö Centrum,Johan Bergström,2024-10-26,2024-10-28,11:00,Genomförd,,,
+BOK-002289,MED-10321,Student,2023-09-02,2024-09-13,249,1983.0,PASS-2024-12-21-2289,pilates,Västerås,Klara Svensson,2024-12-16,2024-12-21,18:30,Genomförd,,,
+BOK-001115,MED-10228,Bas,2023-06-19,2025-05-16,349,1993.0,PASS-2024-07-29-1115,Spinning,Malmö Centrum,Johan Bergström,2024-07-27,2024-07-29,06:30,Struken,,,
+BOK-000063,MED-10218,Bas,2023-09-02,2025-06-07,349,1993.0,PASS-2024-07-14-063,HIIT,Stockholm City,Erik Johansson,2024-07-08,14/07/2024,18:00,No-show,,,
+BOK-000185,MED-10289,Student,2023-11-04,2024-10-04,249,1998.0,PASS-2024-10-20-185,Spinning,LUND,Fredrik Berg,2024-10-18,2024-10-20,17:30,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-10-20,5.0
+BOK-000176,MED-10022,Premium,2022-11-05,2025-06-01,599,1992.0,PASS-2024-09-03-176,Intervall,Stockholm City,Erik Johansson,2024-08-27,2024-09-03,17:30,Avbokad,,,
+BOK-002831,MED-10099,Premium,2023-04-20,2025-02-14,599,1996.0,PASS-2024-08-17-2831,Boxning,Malmö Centrum,Johan Bergström,2024-08-10,2024-08-17,20:00,Genomförd,Professionellt och välorganiserat pass.,2024-08-18,5.0
+BOK-001743,MED-10021,Premium,2022-08-13,2025-04-21,599,1990.0,PASS-2024-11-27-1743,Yoga,Malmö Västra Hamnen,,2024-11-21,2024-11-27,11:00,Genomförd,Bästa yogapasset jag varit på. Kommer tillbaka!,2024-11-27,5.0
+BOK-001423,MED-10040,Premium,2023-03-26,2024-11-03,599,1982.0,PASS-2024-09-06-1423,HIIT,Stockholm City,Erik Johansson,2024-09-01,2024-09-06,06:30,Genomförd,"Rörig planering, visste inte vad vi skulle göra.",2024-09-07,1.0
+BOK-000552,MED-10368,Bas,2022-07-30,2025-07-04,349,1986.0,PASS-2024-10-30-552,Cykel,Göteborg Hisingen,Sara Nilsson,2024-10-28,2024-10-30,11:00,Avbokad,,,
+BOK-000544,MED-10341,Premium,2023-07-05,2024-11-25,599,1989.0,PASS-2024-07-01-544,Spinning,Lund,Fredrik Berg,2024-06-29,2024-07-01,10:00,Avbokad,,,
+BOK-002387,MED-10361,Bas,2024-03-30,2025-04-17,349,1976.0,PASS-2024-10-10-2387,HIIT,Lund,Fredrik Berg,2024-10-08,2024-10-10,12:00,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-10-11,3.0
+BOK-002569,MED-10370,Premium,2022-07-31,2025-08-04,599,1990.0,PASS-2024-10-12-2569,Yoga,Uppsala,Lisa Andersson,2024/10/11,2024-10-12,10:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-10-12,5.0
+BOK-000692,MED-10302,Bas,2024-03-18,2024-12-04,349,1984.0,PASS-2024-10-09-692,Yoga,Västerås,Klara Svensson,2024-10-03,2024-10-09,07:30,Genomförd,"Rörig planering, visste inte vad vi skulle göra.",2024-10-09,2.0
+BOK-001287,MED-10265,Bas,2023-08-04,2025-02-13,349,1999.0,PASS-2024-07-18-1287,HIIT,Stockholm Södermalm,Anna Lindberg,2024-07-16,2024-07-18,16:00,genomförd,,,
+BOK-002360,MED-10116,Bas,2023-12-11,2025-08-02,349,1994.0,PASS-2024-12-03-2360,Högintensiv,Stockholm Kungsholmen,Marcus Ek,2024-12-01,2024-12-03,10:00,no-show,,,
+BOK-002707,MED-10023,Premium,2022-10-13,2024-11-30,599,2003.0,PASS-2024-08-13-2707,DANS,Uppsala,Lisa Andersson,2024-08-07,2024-08-13,12:00,Deltog,Bästa danspasset jag varit på. Kommer tillbaka!,2024-08-13,4.0
+BOK-002582,MED-10048,Basic,2022-10-26,2025-06-21,349,1994.0,PASS-2024-08-27-2582,HIIT,Lund,Fredrik Berg,2024-08-26,2024-08-27,18:30,No-show,,,
+BOK-002046,MED-10072,Bas,2023-09-04,2023-07-12,349,1987.0,PASS-2024-11-03-2046,Styrketräning,Stockholm City,Erik Johansson,2024-10-30,2024-11-03,20:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-11-03,5.0
+BOK-000992,MED-10053,STUDENT,2023-11-18,2025-01-03,249,1985.0,PASS-2024-10-11-992,Yoga,Malmö Västra Hamnen,David Chen,2024-10-07,2024-10-11,12:00,Avbokad,,,
+BOK-002310,MED-10359,student,20/04/2024,2025-04-17,249,2003.0,PASS-2024-10-08-2310,Pilates,Göteborg Centrum,Maria Santos,2024-10-03,2024-10-08,20:00,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-10-09,5.0
+BOK-000189,MED-10017,Premium,2022-08-16,2025-06-11,599,1988.0,PASS-2024-12-12-189,Yoga,Uppsala,Lisa Andersson,2024-12-08,2024-12-12,18:00,Genomförd,,,
+BOK-001063,MED-10309,Bas,2023/07/17,2025-04-05,349,,PASS-2024-12-24-1063,styrka,Stockholm City,Erik Johansson,2024-12-18,2024-12-24,18:30,no-show,,,
+BOK-000317,MED-10269,BAS,2024-02-05,2024-12-07,349,1989.0,PASS-2024-11-07-317,Yoga,Uppsala,Lisa Andersson,2024-11-02,2024-11-07,17:30,Genomförd,Tekniken visades inte ordentligt. Risk för skador.,2024-11-07,2.0
+BOK-000835,MED-10086,Premium,2023-09-07,2024-11-20,599,1985.0,PASS-2024-09-22-835,Yoga,Göteborg Centrum,Maria Santos,2024-09-17,2024-09-22,16:00,Genomförd,Bästa yogapasset jag varit på. Kommer tillbaka!,2024-09-22,5.0
+BOK-001306,MED-10022,Premium,2022-11-05,2025-06-01,599,1992.0,PASS-2024-11-10-1306,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-11-05,2024-11-10,16:00,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-11-10,3.0
+BOK-000200,MED-10335,premium,2023-01-09,2025-04-07,599,1994.0,PASS-2024-07-30-200,Pilates,Malmö VH,David Chen,2024-07-23,2024-07-30,17:30,Genomförd,,,
+BOK-002506,MED-10200,Bas,2022/08/08,2024-11-14,349,1989.0,PASS-2024-11-10-2506,Boxning,Malmö Centrum,Johan Bergström,2024-11-05,2024-11-10,10:00,Genomförd,,,
+BOK-002628,MED-10180,Premium,2022-10-07,2025-05-25,0,1983.0,PASS-2024-12-12-2628,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-12-08,2024-12-12,07:30,Genomförd,,,
+BOK-002794,MED-10182,PREMIUM,2024-05-18,2024-12-21,599,2001.0,PASS-2024-10-03-2794,Styrketräning,ÖREBRO,Oscar Holm,2024-09-29,2024-10-03,10:00,Genomförd,,,
+BOK-000142,MED-10158,Premium,2023-07-29,3 juli 2025,599,2006.0,PASS-2024-10-25-142,Pilates,Västerås,Klara Svensson,2024-10-23,2024-10-25,16:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-10-26,4.0
+BOK-002459,MED-10037,Premium,2024-03-13,2024-10-12,599,2003.0,PASS-2024-09-06-2459,Spinning,Lund,Fredrik Berg,2024-08-31,2024-09-06,07:30,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-09-06,5.0
+BOK-001155,MED-10238,Bas,2024-01-06,2025-03-27,349,1994.0,PASS-2024-07-31-1155,Spinning,Stockholm Södermalm,Anna Lindberg,28/07/2024,2024-07-31,09:00,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-07-31,5.0
+BOK-000285,MED-10259,Bas,2024-04-12,2025-07-06,349,1983.0,PASS-2024-07-22-285,Pilates,Malmö Västra Hamnen,David Chen,16/07/2024,2024-07-22,18:30,Avbokad,,,
+BOK-001879,MED-10282,Bas,2022-09-10,2024-09-05,349,1975.0,PASS-2024-08-11-1879,Spinning,Lund,Fredrik Berg,2024-08-10,2024-08-11,16:00,genomförd,"För många deltagare, ingen plats att röra sig.",2024-08-12,1.0
+BOK-000051,MED-10184,Premium,2022-08-18,2025-05-08,599,2000.0,PASS-2024-11-05-051,HIIT,Stockholm Södermalm,Anna Lindberg,2024-11-03,2024-11-05,18:30,Genomförd,Gör vad det ska. Kunde varit mer utmanande.,2024-11-05,3.0
+BOK-000725,MED-10181,Bas,2023-11-16,2025-01-28,349,2005.0,PASS-2024-09-29-725,Boxning,Malmö Centrum,Johan Bergström,2024-09-22,2024-09-29,09:00,Avbokad,,,
+BOK-002209,MED-10116,Bas,2023-12-11,2025-08-02,349,1994.0,PASS-2024-09-19-2209,H.I.I.T,Linköping,Emma Larsson,2024-09-14,2024-09-19,12:00,Avbokad,,,
+BOK-000132,MED-10236,Bas,2023-01-04,2025-06-28,349,2006.0,PASS-2024-09-12-132,Pilates,Göteborg Centrum,Maria Santos,2024-09-11,2024-09-12,10:00,Genomförd,Toppen! Maria är fantastisk som alltid.,2024-09-12,5.0
+BOK-000551,MED-10204,Student,2023/01/13,2025-04-11,249,2000.0,PASS-2024-08-26-551,Dans,Linköping,Emma Larsson,2024-08-24,2024-08-26,17:00,Genomförd,"Godkänt pass, lite kort kanske.",2024-08-26,3.0
+BOK-001496,MED-10290,Student,2022-10-10,2024-12-18,0,1993.0,PASS-2024-09-09-1496,pilates,Malmö Västra Hamnen,David Chen,2024-09-06,2024-09-09,18:30,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-09-10,5.0
+BOK-002963,MED-10025,Bas,2024-02-10,2024-11-16,349,1996.0,PASS-2024-12-14-2963,Pilates,Västerås,Klara Svensson,2024-12-10,2024-12-14,11:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-12-14,4.0
+BOK-000295,MED-10185,Premium,2023-08-15,2025-04-27,599,1984.0,PASS-2024-07-24-295,Boxing,Malmö C,Johan Bergström,2024-07-17,2024-07-24,07:00,Avbokad,,,
+BOK-002170,MED-10068,Bas,2023-10-05,2025-03-24,349,1992.0,PASS-2024-12-29-2170,Yoga,VÄSTERÅS,Klara Svensson,2024-12-26,2024/12/29,18:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-12-27,4.0
+BOK-000541,MED-10360,Student,2023-11-22,2025-02-10,249,1987.0,PASS-2024-09-26-541,HIIT,Stockholm Södermalm,Anna Lindberg,2024-09-22,2024-09-26,18:30,No-show,,,
+BOK-002423,MED-10347,Bas,2022-08-11,2025-01-24,349,2006.0,PASS-2024-09-14-2423,PILATES,Göteborg Centrum,Maria Santos,2024-09-08,2024-09-14,17:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-09-15,4.0
+BOK-000663,MED-10369,STUDENT,2022-10-14,4 augusti 2025,249,1993.0,PASS-2024-10-15-663,Yoga,Göteborg Centrum,Maria Santos,2024-10-10,2024-10-15,19:00,Avbokad,,,
+BOK-000485,MED-10022,Premium,2022-11-05,2025-06-01,599,1992.0,PASS-2024-10-14-485,Boxing,Malmö city,Johan Bergström,2024-10-08,2024-10-14,12:00,Avbokad,,,
+BOK-000462,MED-10315,Student,2023-08-12,2025-07-03,249,1996.0,PASS-2024-09-26-462,HIIT,Lund,Fredrik Berg,2024-09-23,2024-09-26,18:30,Genomförd,,,
+BOK-002637,MED-10299,Bas,2022-07-28,2025-05-23,349,1984.0,PASS-2024-08-14-2637,Spin,Lund,Fredrik Berg,07/08/2024,2024-08-14,18:00,Genomförd,,,
+BOK-000044,MED-10069,Premium,2023-09-23,2025-02-15,599,1995.0,PASS-2024-12-21-044,Spinning,Göteborg Hisingen,Sara Nilsson,2024-12-14,2024-12-21,20:30,Genomförd,Lokalen var smutsig och dåligt ventilerad.,2024-12-22,2.0
+BOK-000147,MED-10279,Student,2023-10-05,2025-06-01,249,1996.0,PASS-2024-11-06-147,Spinning,Örebro C,Oscar Holm,2024-10-31,"November 06, 2024",18:30,Genomförd,,,
+BOK-001027,MED-10236,bas,2023-01-04,2025-06-28,349,2006.0,PASS-2024-07-16-1027,Spinning,Stockholm Södermalm,Anna Lindberg,2024-07-11,2024-07-16,11:00,Genomförd,,,
+BOK-000966,MED-10012,Premium,2022-07-25,2024-12-24,599,1988.0,PASS-2024-09-23-966,Styrketräning,Örebro,Oscar Holm,2024-09-22,2024-09-23,12:00,Avbokad,,,
+BOK-002597,MED-10347,Basic,2022-08-11,2025-01-24,349,2006.0,PASS-2024-11-22-2597,Pilates,,Klara Svensson,2024-11-21,2024-11-22,16:00,Genomförd,Bästa pilatespasset jag varit på. Kommer tillbaka!,2024-11-23,5.0
+BOK-001141,MED-10358,Bas,2022-10-16,2025-06-09,349,1988.0,PASS-2024-09-20-1141,Yoga,Göteborg Centrum,Maria Santos,2024-09-19,2024-09-20,17:00,Genomförd,,,
+BOK-002236,MED-10256,Student,2023-05-05,2024-12-26,249,1982.0,PASS-2024-12-20-2236,Yoga,Malmö VH,David Chen,2024-12-15,2024-12-20,20:00,Deltog,Professionellt och välorganiserat pass.,2024-12-20,4.0
+BOK-000741,MED-10060,Premium,2023-04-29,2024-08-30,599,1993.0,PASS-2024-11-28-741,Yoga,Göteborg C,Maria Santos,2024-11-26,2024-11-28,18:00,Genomförd,Professionellt och välorganiserat pass.,2024-11-29,5.0
+BOK-000252,MED-10275,Bas,2022-09-06,2025/06/13,349,1985.0,PASS-2024-07-28-252,Pilates,Malmö Västra Hamnen,David Chen,2024-07-25,2024-07-28,07:30,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-07-28,3.0
+BOK-000758,MED-10035,Student,2023-01-18,2024-09-08,249,2001.0,PASS-2024-09-10-758,Boxing,Malmö Centrum,,2024-09-04,2024-09-10,18:30,Avbokad,,,
+BOK-001178,MED-10003,Premium,2024-05-05,2025-06-13,599,1976.0,PASS-2024-09-16-1178,HIIT,Lund,Fredrik Berg,2024-09-13,2024-09-16,09:00,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-09-16,3.0
+BOK-002909,MED-10014,BAS,2023-05-25,2024-11-21,349,2002.0,PASS-2024-10-15-2909,YOGA,Uppsala,Lisa Andersson,2024-10-13,15 oktober 2024,17:30,Genomförd,,,
+BOK-002752,MED-10093,Bas,2023-10-03,2025-01-03,349,1992.0,PASS-2024-08-08-2752,Boxning,Malmö C,Johan Bergström,2024-08-03,2024-08-08,07:30,Genomförd,,,
+BOK-001495,MED-10047,Bas,2023-01-21,2024-12-17,349,1978.0,PASS-2024-09-01-1495,Pilates,Malmö Västra Hamnen,David Chen,2024-08-28,01/09/2024,07:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-09-02,5.0
+BOK-000588,MED-10173,Bas,2023-01-16,2025-02-24,349,1992.0,PASS-2024-12-29-588,Boxning,Malmö city,Johan Bergström,2024-12-22,2024-12-29,17:00,Genomförd,"Musiken var alldeles för hög, kunde inte höra instruktionerna.",2024-12-29,2.0
+BOK-001833,MED-10114,Gold,2022-10-17,2025-07-06,599,1992.0,PASS-2024-08-24-1833,Spinning,Lund,Fredrik Berg,2024-08-20,2024-08-24,19:00,Avbokad,,,
+BOK-001536,MED-10318,Student,2023-08-21,2025-06-19,249,1988.0,PASS-2024-08-31-1536,HIIT,Linköping,Emma Larsson,2024-08-26,2024-08-31,20:00,Genomförd,"Helt okej pass, inget speciellt.",2024-09-01,3.0
+BOK-002858,MED-10238,Bas,2024-01-06,2025-03-27,349,1994.0,PASS-2024-08-24-2858,Högintensiv,STOCKHOLM KUNGSHOLMEN,Marcus Ek,2024-08-18,2024-08-24,08:00,Genomförd,"Lugn och avslappnande hiit, precis vad jag behövde.",2024-08-24,5.0
+BOK-002574,MED-10313,Premium,2022-11-04,2025-02-14,599,1992.0,PASS-2024-10-21-2574,Styrketräning,Stockholm City,Erik Johansson,2024-10-26,2024-10-21,20:30,NO-SHOW,,,
+BOK-000250,MED-10167,Student,2023-02-12,2025-06-17,249,1971.0,PASS-2024-07-08-250,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-07-02,2024-07-08,18:30,No-show,,,
+BOK-000100,MED-10333,Bas,2024-05-25,2024-12-12,349,1997.0,PASS-2024-10-18-100,Spinning,Örebro,Oscar Holm,2024-10-13,2024-10-18,09:00,Genomförd,"Lugn och avslappnande spinning, precis vad jag behövde.",2024-10-19,4.0
+BOK-001373,MED-10017,Gold,2022-08-16,2025-06-11,599,1988.0,PASS-2024-12-08-1373,HIIT,STOCKHOLM KUNGSHOLMEN,Marcus Ek,2024-12-04,2024/12/08,12:00,Avbokad,,,
+BOK-000137,MED-10174,Bas,2023-10-19,2025-03-25,349,1987.0,PASS-2024-09-24-137,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-22,2024-09-24,18:30,Genomförd,,,
+BOK-001987,MED-10113,Bas,2024-06-01,2025-02-01,349,1971.0,PASS-2024-10-01-1987,yoga,Västerås C,Klara Svensson,2024-09-24,2024-10-01,18:30,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-10-01,4.0
+BOK-001576,MED-10303,Premium,2024-01-24,2025-01-17,599,1988.0,PASS-2024-09-12-1576,Pilates,GÖTEBORG CENTRUM,Maria Santos,2024-09-05,12/09/2024,17:00,Genomförd,Bästa pilatespasset jag varit på. Kommer tillbaka!,2024-09-13,4.0
+BOK-001608,MED-10088,Premium,2024-01-01,2025-06-05,599,1994.0,PASS-2024-10-26-1608,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-10-20,2024-10-26,18:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-10-27,4.0
+BOK-002069,MED-10001,premium,2022-07-10,2025-06-05,599,1998.0,PASS-2024-11-29-2069,Styrketräning,Stockholm City,Erik Johansson,2024-11-26,2024-11-29,07:30,Genomförd,,,
+BOK-002438,MED-10250,BAS,03/07/2022,2024-12-31,349,2001.0,PASS-2024-07-27-2438,HIIT,Stockholm City,Erik Johansson,2024-07-21,2024-07-27,07:00,Genomförd,,,
+BOK-000366,MED-10180,Premium,2022-10-07,2025-05-25,599,1983.0,PASS-2024-10-13-366,Boxning,MALMÖ CENTRUM,Johan Bergström,2024-10-10,2024-10-13,19:00,Genomförd,Standard boxning. Inget att klaga på.,2024-10-14,3.0
+BOK-001671,MED-10299,Bas,2022-07-28,2025-05-23,349,1984.0,PASS-2024-11-12-1671,Spinning,Örebro,Oscar Holm,2024-11-06,2024-11-12,11:00,Genomförd,,,
+BOK-002111,MED-10106,Premium,2023-03-13,2024-08-30,599,1974.0,PASS-2024-08-14-2111,HIIT,Linköping,Emma Larsson,2024-08-07,2024-08-14,11:00,Genomförd,,,
+BOK-000904,MED-10344,Bas,2023-07-20,2025-02-19,349,1993.0,PASS-2024-08-15-904,Boxning,Malmö Centrum,Johan Bergström,2024-08-11,2024-08-15,17:30,Genomförd,Professionellt och välorganiserat pass.,2024-08-15,4.0
+BOK-001274,MED-10156,Bas,2023-05-14,2024-10-18,349,1975.0,PASS-2024-12-08-1274,Spinning,Malmö Centrum,Johan Bergström,2024-12-07,2024-12-08,18:00,no-show,,,
+BOK-000476,MED-10038,Basic,2022-12-04,2024-11-02,349,2004.0,PASS-2024-10-02-476,Pilates,Malmö Västra Hamnen,David Chen,2024-09-28,2024-10-02,18:00,Avbokad,,,
+BOK-000182,MED-10049,Bas,2023-04-12,2024-12-05,349,2006.0,PASS-2024-10-06-182,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024/10/02,2024-10-06,20:30,Deltog,Professionellt och välorganiserat pass.,2024-10-06,4.0
+BOK-000052,MED-10061,Student,2023-08-14,2025-04-03,249,1995.0,PASS-2024-10-04-052,Dans,,Emma Larsson,03/10/2024,4 oktober 2024,07:30,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-10-05,3.0
+BOK-002747,MED-10334,Premium,"January 13, 2024",2024-09-28,599,1985.0,PASS-2024-12-30-2747,Styrketräning,Örebro,Oscar Holm,2024-12-28,2024-12-30,17:30,Genomförd,Bra lokal men instruktören var lite seg.,2024-12-30,3.0
+BOK-001203,MED-10034,Premium,2022-11-27,2025-05-28,599,1987.0,PASS-2024-12-23-1203,Yoga,Uppsala,Lisa Andersson,2024-12-21,2024-12-23,17:00,AVBOKAD,,,
+BOK-000555,MED-10058,Student,2023-12-14,2025-03-26,249,2025.0,PASS-2024-12-25-555,HIIT,Stockholm City,Erik Johansson,2024-12-23,2024-12-25,17:00,Deltog,,,
+BOK-001375,MED-10308,Bas,2023-06-20,2024-12-05,349,1988.0,PASS-2024-09-23-1375,HIIT,Stockholm Södermalm,Anna Lindberg,2024-09-20,2024-09-23,09:00,Genomförd,,,
+BOK-000427,MED-10041,Student,2023-11-09,2025-02-05,249,1995.0,PASS-2024-08-07-427,HIIT,Linköping,Emma Larsson,2024-08-01,2024-08-07,16:00,Genomförd,,,
+BOK-001437,MED-10050,Premium,2023-06-05,2025-04-03,599,1992.0,PASS-2024-10-16-1437,Styrketräning,GÖTEBORG HISINGEN,Sara Nilsson,2024-10-09,16/10/2024,08:00,Genomförd,,,
+BOK-001404,MED-10239,student,2024-03-17,2025-04-27,249,1992.0,PASS-2024-07-02-1404,Styrketräning,ÖREBRO,Oscar Holm,26 juni 2024,2024-07-02,17:30,No-show,,,
+BOK-000666,MED-10320,Bas,2024-05-06,2025-07-07,349,1994.0,PASS-2024-08-16-666,boxning,Stockholm Kungsholmen,Marcus Ek,2024-08-14,2024-08-16,07:00,Genomförd,"Helt okej pass, inget speciellt.",2024-08-16,3.0
+BOK-000926,MED-10276,Plus,2022-08-08,2024-10-01,599,1993.0,PASS-2024-10-13-926,Yoga,Västerås,,2024-10-11,13/10/2024,10:00,Genomförd,,,
+BOK-001453,MED-10333,Bas,"May 25, 2024",2024-12-12,349,1940.0,PASS-2024-07-15-1453,Spinning,Malmö Centrum,Johan Bergström,2024-07-10,2024-07-15,11:00,Genomförd,,,
+BOK-001877,MED-10103,Bas,2024-04-23,2024-10-24,349,2005.0,PASS-2024-11-19-1877,Yoga,Västerås,Klara Svensson,2024-11-18,2024-11-19,17:30,Cancelled,,,
+BOK-002877,MED-10078,Premium,2023-07-28,2025-07-09,599,1987.0,PASS-2024-12-21-2877,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-12-16,2024-12-21,12:00,AVBOKAD,,,
+BOK-001326,MED-10352,Bas,2023-07-07,2024-10-01,349,1992.0,PASS-2024-10-18-1326,Spinning,Malmö Centrum,Johan Bergström,2024-10-13,2024-10-18,18:00,Genomförd,"Rörig planering, visste inte vad vi skulle göra.",2024-10-18,2.0
+BOK-000516,MED-10277,Bas,2023-07-28,2025-07-28,349,1993.0,PASS-2024-08-28-516,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-08-25,2024-08-28,16:00,Genomförd,,,
+BOK-000001,MED-10158,Premium,2023-07-29,2025-07-03,599,2006.0,PASS-2024-10-01-001,Yoga,GÖTEBORG CENTRUM,Maria Santos,2024-09-24,2024-10-01,11:00,Genomförd,Bästa yogapasset jag varit på. Kommer tillbaka!,2024-10-02,4.0
+BOK-001265,MED-10341,Premium,2023-07-05,2024-11-25,599,1989.0,PASS-2024-09-11-1265,Pilates,Västra Hamnen,David Chen,2024-09-05,2024-09-11,17:00,Struken,,,
+BOK-001794,MED-10119,Premium,2024-05-07,2024-09-22,599,1986.0,PASS-2024-09-16-1794,hiit,Stockholm Södermalm,Anna Lindberg,2024-09-13,2024-09-16,18:00,Genomförd,,,
+BOK-001599,MED-10135,Premium,2022-11-24,2025-04-25,599,1978.0,PASS-2024-11-30-1599,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-11-24,2024-11-30,17:00,Genomförd,,,
+BOK-000787,MED-10030,Premium,2023-12-23,2025-04-19,599,1991.0,PASS-2024-10-06-787,Yoga,Västra Hamnen,David Chen,2024-09-29,2024-10-06,18:00,Avbokad,,,
+BOK-002846,MED-10056,Student,2024-02-22,2024-09-24,249,1994.0,PASS-2024-11-16-2846,Yoga,Uppsala,Lisa Andersson,2024-11-15,2024-11-16,18:30,Genomförd,,,
+BOK-000294,MED-10012,Premium,2022-07-25,2024-12-24,599,1988.0,PASS-2024-07-21-294,Spinning,Lund,Fredrik Berg,2024-07-15,2024-07-21,20:30,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-07-21,3.0
+BOK-000859,MED-10269,bas,2024-02-05,2024-12-07,349,1920.0,PASS-2024-10-23-859,Spinning,Örebro,Oscar Holm,2024-10-19,2024-10-23,18:30,Genomförd,Standard spinning. Inget att klaga på.,2024-10-23,3.0
+BOK-002640,MED-10182,Premium,2024-05-18,2024-12-21,599,,PASS-2024-09-03-2640,Pilates,Göteborg Centrum,Maria Santos,2024-09-02,2024-09-03,07:30,Genomförd,"Underbar träning, kommer definitivt igen!",2024-09-03,5.0
+BOK-001717,MED-10088,Premium,2024-01-01,2025-06-05,599,1994.0,PASS-2024-12-25-1717,Dans,Linköping,Emma Larsson,2024-12-23,25 december 2024,18:30,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-12-26,4.0
+BOK-001634,MED-10051,Bas,2024-04-07,2025-07-30,349,1991.0,PASS-2024-10-30-1634,HIIT,Stockholm Södermalm,Anna Lindberg,24 oktober 2024,2024-10-30,10:00,Genomförd,"Lugn och avslappnande hiit, precis vad jag behövde.",2024-10-31,5.0
+BOK-002119,MED-10309,Bas,2023-07-17,2025-04-05,349,1998.0,PASS-2024-09-27-2119,Styrketräning,Stockholm City,Erik Johansson,2024-09-22,2024-09-27,17:00,Genomförd,Toppen! Erik är fantastisk som alltid.,2024-09-28,4.0
+BOK-002195,MED-10001,Premium,2022-07-10,2025-06-05,599,1998.0,PASS-2024-10-17-2195,Spinning,Göteborg Hisingen,,2024-10-13,2024-10-17,17:00,Deltog,,,
+BOK-000032,MED-10354,BAS,2022-10-05,27/09/2024,349,1994.0,PASS-2024-07-11-032,Spinning,Örebro,Oscar Holm,2024-07-10,2024-07-11,09:00,Genomförd,,,
+BOK-002429,MED-10323,Bas,2024-01-07,2025-06-15,349,1976.0,PASS-2024-09-21-2429,Yoga,Västerås,Klara Svensson,2024-09-15,2024-09-21,07:00,genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-09-22,4.0
+BOK-000014,MED-10146,Premium,2023-07-02,2025-02-08,599,1996.0,PASS-2024-12-15-014,Dans,LINKÖPING,Emma Larsson,2024-12-11,2024-12-15,18:30,Genomförd,Instruktören kom försent och passet blev förkortat.,2024-12-16,1.0
+BOK-000091,MED-10080,Bas,2022-07-23,"October 22, 2024",349,1993.0,PASS-2024-12-17-091,Dans,Linköping,Emma Larsson,"December 13, 2024",2024-12-17,07:30,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-12-18,4.0
+BOK-001120,MED-10047,Bas,2023-01-21,2024-12-17,349,1978.0,PASS-2024-11-22-1120,PILATES,Malmö Västra Hamnen,David Chen,2024-11-21,2024-11-22,12:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-11-22,4.0
+BOK-000559,MED-10183,Premium,2024-04-07,2025-06-09,599,1986.0,PASS-2024-08-14-559,Yoga,Malmö Västra Hamnen,David Chen,2024-08-11,2024-08-14,19:00,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-08-14,5.0
+BOK-002776,MED-10075,Bas,2024-02-20,2024-10-27,349,1935.0,PASS-2024-10-22-2776,Yoga,Göteborg Centrum,Maria Santos,2024-10-17,2024-10-22,16:00,genomförd,"Underbar träning, kommer definitivt igen!",2024-10-23,4.0
+BOK-001516,MED-10162,Premium,2022-08-21,2024-09-29,599,,PASS-2024-08-17-1516,Pilates,Västra Hamnen,David Chen,2024-08-12,2024-08-17,19:00,Genomförd,,,
+BOK-000236,MED-10019,Student,2023-04-18,2024-11-16,249,2005.0,PASS-2024-10-10-236,HIIT,STOCKHOLM SÖDERMALM,Anna Lindberg,2024-10-07,2024-10-10,07:00,Genomförd,"Besviken på Anna, inte alls lika bra som förra gången.",2024-10-10,2.0
+BOK-001525,MED-10007,Student,2024-02-28,2024-09-25,249,1980.0,PASS-2024-09-03-1525,Dans,Linköping,Emma Larsson,2024-08-29,2024-09-03,19:00,No-show,,,
+BOK-000253,MED-10153,Basic,2023-09-13,2025-03-06,349,1991.0,PASS-2024-10-09-253,Yoga,Västerås,Klara Svensson,2024-10-04,2024/10/09,20:30,Genomförd,"Helt ok, men har varit på bättre.",2024-10-10,3.0
+BOK-000310,MED-10303,Premium,2024-01-24,2025-01-17,599,1988.0,PASS-2024-07-11-310,Styrketräning,Stockholm City,Erik Johansson,2024-07-10,2024-07-11,16:00,Genomförd,Standard styrketräning. Inget att klaga på.,2024-07-12,3.0
+BOK-000826,MED-10348,Premium,2023-11-12,2024-10-14,599,1998.0,PASS-2024-12-03-826,Spinning,Göteborg Hisingen,Sara Nilsson,2024-11-26,2024-12-03,08:00,No-show,,,
+BOK-002039,MED-10160,Premium,2023-05-19,2025-02-11,599,1998.0,PASS-2024-10-09-2039,HIIT,Linköping,Emma Larsson,2024-10-04,2024-10-09,08:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-10-10,4.0
+BOK-001813,MED-10268,Student,2023-01-25,2025-01-28,249,2030.0,PASS-2024-07-05-1813,HIIT,Linköping,Emma Larsson,28 juni 2024,2024-07-05,18:30,Genomförd,,,
+BOK-001359,MED-10289,Student,2023-11-04,2024-10-04,249,1998.0,PASS-2024-12-06-1359,HIIT,Stockholm Södermalm,Anna Lindberg,2024-12-05,2024-12-06,18:00,Genomförd,,,
+BOK-001269,MED-10227,Bas,2024-03-22,2025-01-18,349,2025.0,PASS-2024-10-20-1269,H.I.I.T,Stockholm City,Erik Johansson,2024-10-18,2024-10-20,17:00,Genomförd,,,
+BOK-000837,MED-10092,Basic,2023-04-12,"December 26, 2024",349,1997.0,PASS-2024-11-30-837,HIIT,Linköping,Emma Larsson,2024-11-26,2024-11-30,17:00,Genomförd,"Musiken var alldeles för hög, kunde inte höra instruktionerna.",2024-11-30,2.0
+BOK-002539,MED-10282,Grund,2022-09-10,2024-12-19,0,1975.0,PASS-2024-11-08-2539,Yoga,Västerås,Klara Svensson,2024-11-05,2024-11-08,17:00,Genomförd,"För många deltagare, ingen plats att röra sig.",2024-11-08,2.0
+BOK-002320,MED-10018,Premium,2024-04-05,2025-01-18,599,1994.0,PASS-2024-11-09-2320,HIIT,STOCKHOLM SÖDERMALM,Anna Lindberg,2024-11-03,2024-11-09,16:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-11-10,5.0
+BOK-001578,MED-10022,Premium,2022-11-05,2025-06-01,599,1992.0,PASS-2024-12-03-1578,Pilates,Göteborg Centrum,Maria Santos,2024-12-01,2024-12-03,18:00,Genomförd,,,
+BOK-000454,MED-10178,premium,2023-11-17,2025-02-07,599,1995.0,PASS-2024-09-04-454,Boxning,Malmö C,Johan Bergström,2024-09-01,2024-09-04,11:00,Genomförd,,,
+BOK-000501,MED-10075,Bas,2024-02-20,2024-10-06,349,1985.0,PASS-2024-12-03-501,Styrketräning,STOCKHOLM CITY,Erik Johansson,2024/11/30,2024-12-03,16:00,No-show,,,
+BOK-001978,MED-10046,Premium,2023-06-29,2024-10-05,599,1993.0,PASS-2024-09-18-1978,Spinning,Södermalm,Anna Lindberg,2024-09-15,2024-09-18,20:30,Genomförd,,,
+BOK-001517,MED-10330,Bas,2022-12-25,2024-10-27,349,1987.0,PASS-2024-12-05-1517,HIIT,Stockholm Södermalm,Anna Lindberg,2024-11-28,2024-12-05,18:00,Avbokad,,,
+BOK-002055,MED-10117,Premium,2022-08-23,2025-07-13,599,1998.0,PASS-2024-11-10-2055,HIIT,,Anna Lindberg,2024-11-09,2024-11-10,18:00,Genomförd,,,
+BOK-001383,MED-10199,Bas,2022-07-25,2024-12-09,349,2004.0,PASS-2024-10-30-1383,Spinning,Örebro,Oscar Holm,2024-10-25,2024-10-30,17:30,Genomförd,,,
+BOK-001477,MED-10208,Bas,2023-12-05,2025-04-27,349,1989.0,PASS-2024-08-20-1477,DANS,Linköping C,Emma Larsson,2024-08-18,2024-08-20,08:00,Genomförd,Toppen! Emma är fantastisk som alltid.,2024-08-20,4.0
+BOK-001029,MED-10072,Bas,2023-09-04,2025-03-20,349,1987.0,PASS-2024-11-16-1029,Pilates,Västerås,Klara Svensson,2024-11-13,2024-11-16,17:00,Genomförd,,,
+BOK-002604,MED-10113,Bas,2024-06-01,2024-09-09,349,1971.0,PASS-2024-08-14-2604,pilates,Göteborg Centrum,Maria Santos,2024-08-07,2024-08-14,17:00,Genomförd,,,
+BOK-000172,MED-10213,Bas,2022-11-16,2024-09-17,349,1985.0,PASS-2024-09-12-172,Pilates,Göteborg Centrum,Maria Santos,2024-09-06,2024-09-12,19:00,Genomförd,Gör vad det ska. Kunde varit mer utmanande.,2024-09-13,3.0
+BOK-002605,MED-10085,Bas,2024-04-17,2024-11-02,349,1992.0,PASS-2024-12-09-2605,Yoga,Malmö Västra Hamnen,David Chen,2024-12-04,2024-12-09,07:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-12-09,4.0
+BOK-002474,MED-10217,PREMIUM,2023-01-08,2024-09-09,599,,PASS-2024-07-11-2474,Spinning,Malmö Centrum,Johan Bergström,2024-07-16,2024-07-11,17:00,Genomförd,"Rörig planering, visste inte vad vi skulle göra.",2024-07-11,2.0
+BOK-000247,MED-10021,Premium,2022-08-13,2025-04-21,599,,PASS-2024-11-27-247,Styrketräning,Stockholm City,Erik Johansson,2024-11-26,2024-11-27,17:00,Genomförd,,,
+BOK-002570,MED-10228,Bas,2023-06-19,2025-05-16,349,1993.0,PASS-2024-10-21-2570,Högintensiv,Linköping,Emma Larsson,2024-10-16,2024-10-21,18:30,Genomförd,,,
+BOK-000986,MED-10290,STUDENT,2022-10-10,2024-12-18,249,1993.0,PASS-2024-12-08-986,Spinning,LUND,Fredrik Berg,2024-12-04,2024-12-08,19:00,Genomförd,Toppen! Fredrik är fantastisk som alltid.,2024-12-09,5.0
+BOK-001802,MED-10312,Premium,2024-01-20,2025-06-10,599,1990.0,PASS-2024-07-12-1802,Spinning,Stockholm Södermalm,Anna Lindberg,"July 08, 2024",2024-07-12,17:30,Genomförd,"Lugn och avslappnande spinning, precis vad jag behövde.",2024-07-13,5.0
+BOK-002115,MED-10091,Student,2023-09-20,2024-10-21,249,1985.0,PASS-2024-10-12-2115,HIIT,Lund,Fredrik Berg,2024-10-09,2024-10-12,18:30,No-show,,,
+BOK-000903,MED-10001,Premium,2022-07-10,5 juni 2025,599,1998.0,PASS-2024-10-10-903,Yoga,Malmö Västra Hamnen,David Chen,2024-10-03,2024-10-10,18:30,Genomförd,,,
+BOK-002997,MED-10199,Bas,2022-07-25,2024-12-09,349,2004.0,PASS-2024-12-03-2997,Styrketräning,Örebro,,2024-11-30,2024/12/03,18:30,No-show,,,
+BOK-001146,MED-10349,Bas,2022-07-31,2024-10-07,349,1995.0,PASS-2024-10-22-1146,HIIT,Lund,Fredrik Berg,2024-10-15,2024-10-22,18:30,Genomförd,Medelmåttigt. Varken bra eller dåligt.,2024-10-23,3.0
+BOK-000727,MED-10210,Student,2023-01-15,2024-10-15,249,1986.0,PASS-2024-08-17-727,Styrketräning,Örebro,Oscar Holm,2024-08-13,2024-08-17,17:00,Genomförd,,,
+BOK-001318,MED-10193,Premium,2022-09-16,2024-10-19,599,2004.0,PASS-2024-10-13-1318,HIIT,Stockholm Södermalm,Anna Lindberg,2024-10-08,2024-10-13,17:00,Genomförd,"Lugn och avslappnande hiit, precis vad jag behövde.",2024-10-14,5.0
+BOK-000448,MED-10156,Bas,2023-05-14,2025-03-21,349,1975.0,PASS-2024-11-22-448,Boxning,Malmö Centrum,Johan Bergström,2024-11-18,2024-11-22,17:00,Genomförd,,,
+BOK-000627,MED-10212,Student,2023-01-11,2025-01-24,249,1979.0,PASS-2024-12-01-627,Boxing,Malmö Centrum,Johan Bergström,2024-11-27,2024-12-01,07:30,Genomförd,,,
+BOK-001194,MED-10145,Premium,2024-01-15,2024-12-13,599,1988.0,PASS-2024-09-23-1194,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-09-22,2024-09-23,17:00,Genomförd,Fantastiskt pass! Sara är så energisk och motiverande.,2024-09-23,5.0
+BOK-001053,MED-10185,Premium,2023-08-15,2025-04-27,599,1984.0,PASS-2024-11-09-1053,Pilates,Västerås,Klara Svensson,2024-11-05,09/11/2024,07:00,Klar,,,
+BOK-001368,MED-10051,bas,2024-04-07,2025-07-30,349,1991.0,PASS-2024-09-14-1368,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-09-13,2024-09-14,08:00,No-show,,,
+BOK-002862,MED-10134,Premium,2023-12-28,2024-12-17,599,2000.0,PASS-2024-12-29-2862,Pilates,Västerås,Klara Svensson,2024-12-23,2024-12-29,17:30,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-12-29,4.0
+BOK-000710,MED-10091,Student,2023-09-20,2024-10-21,249,1985.0,PASS-2024-10-26-710,Pilates,Malmö Västra Hamnen,,2024-10-22,2024-10-26,18:00,Genomförd,,,
+BOK-001145,MED-10068,Bas,2023-10-05,2025-03-24,349,1992.0,PASS-2024-08-06-1145,Styrkepass,Gbg Hisingen,Sara Nilsson,2024-07-30,2024-08-06,18:30,Genomförd,,,
+BOK-001633,MED-10050,PREMIUM,2023-06-05,2025-04-03,599,1992.0,PASS-2024-08-07-1633,Pilates,Göteborg Centrum,,2024-08-01,2024-08-07,07:30,Genomförd,Toppen! Maria är fantastisk som alltid.,2024-08-07,4.0
+BOK-001638,MED-10045,Bas,2022-08-25,2024-09-29,349,1995.0,PASS-2024-09-08-1638,HIIT,Linköping,Emma Larsson,2024-09-06,2024-09-08,07:30,Avbokad,,,
+BOK-000045,MED-10183,Premium,7 april 2024,09/06/2025,599,1986.0,PASS-2024-12-10-045,HIIT,City,Erik Johansson,2024-12-14,2024-12-10,08:00,Genomförd,Dålig musik och tråkiga övningar.,2024-12-11,2.0
+BOK-002145,MED-10170,Bas,2022-09-30,2025-01-18,349,1998.0,PASS-2024-11-23-2145,spinning,Malmö city,Johan Bergström,2024-11-18,2024-11-23,06:30,No-show,,,
+BOK-001981,MED-10245,Bas,2024-02-20,2025-04-14,349,1999.0,PASS-2024-09-11-1981,Spinning,Malmö C,Johan Bergström,2024-09-04,2024-09-11,18:30,GENOMFÖRD,Utmanande men roligt. Lagom nivå för mig.,2024-09-11,4.0
+BOK-001917,MED-10096,Premium,2024-02-12,2024-11-29,599,1991.0,PASS-2024-09-29-1917,HIIT,Lund,Fredrik Berg,2024-09-23,2024-09-29,20:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-09-29,5.0
+BOK-000266,MED-10347,Basic,2022-08-11,2024-11-13,349,2006.0,PASS-2024-12-23-266,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-12-17,2024-12-23,20:00,Avbokad,,,
+BOK-002013,MED-10279,Student,2023-10-05,2025-06-01,249,1996.0,PASS-2024-10-02-2013,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-29,2024-10-02,17:30,Genomförd,,,
+BOK-001196,MED-10071,Bas,2023-09-08,2025-02-01,349,1979.0,PASS-2024-11-10-1196,Styrketräning,Stockholm City,Erik Johansson,2024-11-08,2024-11-10,17:00,No-show,,,
+BOK-000689,MED-10009,Student,2022-11-30,01/11/2024,249,1992.0,PASS-2024-10-07-689,Pilates,Göteborg Centrum,Maria Santos,2024-09-30,2024-10-07,20:00,Genomförd,Toppen! Maria är fantastisk som alltid.,2024-10-08,5.0
+BOK-000884,MED-10208,BAS,2023-12-05,2025-04-27,349,1989.0,PASS-2024-12-22-884,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-12-15,2024-12-22,19:00,Genomförd,Standard styrketräning. Inget att klaga på.,2024-12-22,3.0
+BOK-000410,MED-10315,Student,2023-08-12,2025-07-03,249,1996.0,PASS-2024-07-18-410,Boxing,Stockholm Kungsholmen,Marcus Ek,2024-07-12,2024-07-18,17:00,Genomförd,Instruktören kom försent och passet blev förkortat.,2024-07-18,2.0
+BOK-000215,MED-10284,Bas,2023-05-27,2024-10-19,349,1981.0,PASS-2024-09-02-215,Yoga,Västerås,Klara Svensson,2024-08-29,2024-09-02,10:00,Genomförd,Bra lokal men instruktören var lite seg.,2024-09-03,3.0
+BOK-000542,MED-10218,Bas,2023-09-02,2025-06-07,349,1993.0,PASS-2024-12-21-542,Högintensiv,Lund,Fredrik Berg,17/12/2024,2024-12-21,17:00,Avbokad,,,
+BOK-001983,MED-10299,Bas,2022-07-28,2025-05-23,349,1984.0,PASS-2024-09-16-1983,styrka,Stockholm City,Erik Johansson,2024-09-09,2024-09-16,18:30,Genomförd,,,
+BOK-001651,MED-10367,Bas,2024-02-26,2025-06-11,349,,PASS-2024-07-23-1651,Yoga,Malmö Västra Hamnen,David Chen,2024-07-18,2024-07-23,08:00,Genomförd,,,
+BOK-000477,MED-10281,Bas,2023-12-26,2025-03-30,-349,1991.0,PASS-2024-09-18-477,Dans,Linköping C,Emma Larsson,2024-09-13,2024-09-18,18:00,genomförd,,,
+BOK-000587,MED-10096,Gold,2024-02-12,2024-11-29,599,1991.0,PASS-2024-11-18-587,Spinning,Göteborg Hisingen,Sara Nilsson,2024-11-11,2024-11-18,07:00,Genomförd,Gör vad det ska. Kunde varit mer utmanande.,2024-11-19,3.0
+BOK-001240,MED-10259,Bas,2024-04-12,2025-07-06,349,1983.0,PASS-2024-11-01-1240,PILATES,VÄSTERÅS,,2024-10-31,2024-11-01,18:00,Genomförd,Fantastiskt pass! Klara är så energisk och motiverande.,2024-11-02,4.0
+BOK-001740,MED-10369,Student,2022-10-14,2024-10-21,249,1993.0,PASS-2024-07-16-1740,Spinning,Örebro,Oscar Holm,10/07/2024,2024-07-16,17:30,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-07-16,4.0
+BOK-000342,MED-10077,Student,2023-05-20,2025-01-22,249,,PASS-2024-11-16-342,HIIT,Stockholm City,Erik Johansson,2024-11-09,2024-11-16,18:00,Genomförd,Professionellt och välorganiserat pass.,2024-11-17,5.0
+BOK-001938,MED-10110,Bas,2023-07-03,2025-03-24,349,2006.0,PASS-2024-10-14-1938,Boxning,Stockholm Kungsholmen,,2024-10-08,2024-10-14,19:00,No-show,,,
+BOK-001803,MED-10363,Bas,2023-09-22,2024-10-21,349,1989.0,PASS-2024-07-18-1803,Pilates,Malmö Västra Hamnen,David Chen,2024-07-14,2024-07-18,07:30,Genomförd,,,
+BOK-002167,MED-10114,Premium,2022-10-17,2025-07-06,599,1992.0,PASS-2024-11-23-2167,Yoga,Uppsala,Lisa Andersson,2024-11-16,2024-11-23,17:30,Genomförd,,,
+BOK-000436,MED-10245,Bas,"February 20, 2024",2025-04-14,349,1999.0,PASS-2024-12-29-436,Boxning,Malmö Centrum,Johan Bergström,2024-12-26,2024-12-29,06:30,Klar,,,
+BOK-000085,MED-10355,Bas,2023-02-15,18/04/2025,349,1998.0,PASS-2024-08-15-085,Pilates,Västerås,Klara Svensson,2024-08-08,2024-08-15,17:30,Genomförd,"Helt ok, men har varit på bättre.",2024-08-16,3.0
+BOK-002823,MED-10023,Premium,"October 13, 2022",2024-11-30,599,2003.0,PASS-2024-12-12-2823,YOGA,Västerås,Klara Svensson,2024-12-09,2024-12-12,18:30,Avbokad,,,
+BOK-001711,MED-10148,BAS,2023-09-17,2024-10-10,349,1983.0,PASS-2024-07-21-1711,HIIT,LINKÖPING,Emma Larsson,2024-07-18,2024-07-21,17:30,Genomförd,Toppen! Emma är fantastisk som alltid.,2024-07-22,5.0
+BOK-002259,MED-10318,Student,2023-08-21,2024-12-08,249,1988.0,PASS-2024-10-01-2259,Yoga,VÄSTERÅS,Klara Svensson,2024-09-24,01/10/2024,17:30,Genomförd,Standard yoga. Inget att klaga på.,2024-10-02,3.0
+BOK-002475,MED-10355,Bas,2023-02-15,2024-11-09,349,1998.0,PASS-2024-10-01-2475,Zumba,Linköping,Emma Larsson,2024-09-29,2024-10-01,12:00,Genomförd,,,
+BOK-000287,MED-10109,Bas,2024-01-26,2025-01-30,349,1995.0,PASS-2024-10-30-287,Spinning,Stockholm Södermalm,Anna Lindberg,2024-10-23,2024-10-30,18:30,Deltog,,,
+BOK-000208,MED-10123,Student,2024/02/13,2025-04-04,249,1999.0,PASS-2024-09-05-208,Dans,Uppsala,Lisa Andersson,2024-08-29,2024-09-05,17:00,Genomförd,Fantastiskt pass! Lisa är så energisk och motiverande.,2024-09-05,5.0
+BOK-001901,MED-10185,Premium,2023-08-15,2025-04-27,599,1984.0,PASS-2024-11-10-1901,Pilates,Malmö Västra Hamnen,David Chen,2024-11-06,10/11/2024,18:00,GENOMFÖRD,Instruktören var superbra på att korrigera tekniken.,2024-11-11,5.0
+BOK-000242,MED-10258,Premium,2024-05-10,2025-08-02,599,1993.0,PASS-2024-10-17-242,Spinning,Örebro,Oscar Holm,2024-10-10,2024-10-17,18:00,Genomförd,,,
+BOK-002722,MED-10238,Bas,2024-01-06,2025-03-27,349,1994.0,PASS-2024-10-04-2722,Hatha Yoga,Uppsala,Lisa Andersson,2024-09-28,2024-10-04,07:00,Genomförd,,,
+BOK-001342,MED-10093,Bas,2023-10-03,2024-11-21,349,1992.0,PASS-2024-10-16-1342,Boxning,Malmö Centrum,Johan Bergström,2024-10-13,2024-10-16,11:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-10-16,5.0
+BOK-000173,MED-10325,Premium,2023-05-13,2025-04-01,599,2001.0,PASS-2024-10-16-173,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-10-11,2024-10-16,10:00,No-show,,,
+BOK-000781,MED-10163,Bas,2022-12-15,2025-07-29,349,1997.0,PASS-2024-07-10-781,SPINNING,Malmö Centrum,Johan Bergström,2024-07-08,2024-07-10,07:30,Avbokad,,,
+BOK-000403,MED-10285,Student,2022-08-11,2025-03-01,249,2006.0,PASS-2024-12-03-403,HIIT,Stockholm Södermalm,Anna Lindberg,"December 02, 2024",2024-12-03,19:00,Avbokad,,,
+BOK-001219,MED-10001,Premium,2022-07-10,2025-06-05,599,1998.0,PASS-2024-07-31-1219,HIIT,Stockholm Södermalm,Anna Lindberg,2024-07-30,2024-07-31,10:00,Genomförd,,,
+BOK-001461,MED-10261,Bas,2022-08-20,2024-12-05,349,1991.0,PASS-2024-10-01-1461,Intervall,LUND,Fredrik Berg,2024-09-25,2024-10-01,12:00,no-show,,,
+BOK-001785,MED-10025,Bas,2024-02-10,2024-11-16,349,1996.0,PASS-2024-07-19-1785,Pilates,Gbg Centrum,Maria Santos,2024-07-12,2024-07-19,08:00,GENOMFÖRD,"Underbar träning, kommer definitivt igen!",2024-07-20,5.0
+BOK-001062,MED-10041,Student,2023-11-09,2025-02-05,249,1995.0,PASS-2024-12-12-1062,Styrketräning,Stockholm City,Erik Johansson,2024-12-05,2024-12-12,18:30,Genomförd,,,
+BOK-000677,MED-10051,Bas,2024-04-07,2025-07-30,349,1991.0,PASS-2024-09-20-677,Spinning,Lund,Fredrik Berg,2024-09-14,2024-09-20,18:00,Genomförd,,,
+BOK-001815,MED-10209,Bas,2023-08-22,2024-11-30,349,1960.0,PASS-2024-12-11-1815,Spinning,Stockholm Södermalm,Anna Lindberg,2024-12-04,2024/12/11,16:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-12-12,5.0
+BOK-001558,MED-10186,Bas,2024-04-10,2025-01-06,349,1987.0,PASS-2024-08-17-1558,Core,Gbg Centrum,Maria Santos,2024-08-13,2024-08-17,09:00,Genomförd,"Godkänt pass, lite kort kanske.",2024-08-18,3.0
+BOK-001021,MED-10349,Bas,2022-07-31,2024-10-07,349,1995.0,PASS-2024-10-01-1021,spinning,Malmö Centrum,Johan Bergström,2024-09-30,2024-10-01,17:30,Genomförd,"Helt okej pass, inget speciellt.",2024-10-01,3.0
+BOK-002814,MED-10343,Bas,2023-03-13,2025-06-27,349,1994.0,PASS-2024-11-09-2814,HIIT,LUND,Fredrik Berg,2024-11-08,2024-11-09,18:30,Genomförd,,,
+BOK-002120,MED-10264,Premium,2022-10-17,2025-03-04,599,1993.0,PASS-2024-08-04-2120,Dans,Uppsala,Lisa Andersson,2024/08/02,2024-08-04,19:00,Genomförd,,,
+BOK-000520,MED-10095,Premium,2023-04-07,2024-11-04,599,2001.0,PASS-2024-09-22-520,HIIT,Linköping,Emma Larsson,2024-09-18,2024-09-22,17:30,Genomförd,Lokalen var smutsig och dåligt ventilerad.,2024-09-23,2.0
+BOK-001416,MED-10070,Bas,2023-03-30,2024-11-24,349,1992.0,PASS-2024-12-19-1416,Dance,Uppsala,,2024-12-16,2024-12-19,17:00,Genomförd,Alldeles för hög nivå för nybörjare. Ingen anpassning.,2024-12-20,2.0
+BOK-001584,MED-10345,Premium,2024-03-15,2025-05-18,599,1992.0,PASS-2024-09-26-1584,Yoga,Uppsala,Lisa Andersson,2024-09-23,2024-09-26,08:00,Klar,,,
+BOK-000193,MED-10120,Premium,2024-03-19,2025-04-20,599,1982.0,PASS-2024-07-14-193,Pilates,Malmö VH,David Chen,2024-07-08,2024/07/14,20:30,Genomförd,,,
+BOK-002446,MED-10088,Premium,2024-01-01,2025-06-05,599,1994.0,PASS-2024-12-13-2446,Pilates,Västerås,Klara Svensson,2024-12-12,2024-12-13,08:00,Genomförd,,,
+BOK-000168,MED-10162,Premium,21 augusti 2022,2024-09-29,599,1989.0,PASS-2024-08-30-168,Styrketräning,Örebro,Oscar Holm,2024-08-27,2024-08-30,12:00,Genomförd,Dålig musik och tråkiga övningar.,2024-08-31,2.0
+BOK-001311,MED-10104,Bas,2023-07-16,2025-04-10,349,1992.0,PASS-2024-11-06-1311,HIIT,Lund,Fredrik Berg,2024-10-30,2024-11-06,18:00,Genomförd,,,
+BOK-002779,MED-10143,Student,2022-09-03,2025-05-30,249,1988.0,PASS-2024-11-23-2779,Yoga,Göteborg Centrum,Maria Santos,2024-11-16,2024-11-23,19:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-11-23,5.0
+BOK-000086,MED-10121,Bas,2023-11-15,2025/03/14,349,2002.0,PASS-2024-12-13-086,HIIT,Linköping,Emma Larsson,2024-12-12,2024-12-13,17:30,Genomförd,,,
+BOK-002677,MED-10016,Premium,2022-12-03,2025-01-02,599,2003.0,PASS-2024-12-21-2677,Gympass,STOCKHOLM CITY,Erik Johansson,2024-12-15,2024-12-21,11:00,Genomförd,,,
+BOK-001468,MED-10078,Premium,2023-07-28,2025-07-09,599,1987.0,PASS-2024-11-13-1468,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-11-11,2024-11-13,07:30,Genomförd,,,
+BOK-000364,MED-10235,Student,2022-08-04,2024-11-15,249,1988.0,PASS-2024-12-30-364,Spinning,Örebro,Oscar Holm,2024-12-26,2024-12-30,18:30,no-show,,,
+BOK-002401,MED-10013,BAS,07/10/2023,2024-10-20,349,2006.0,PASS-2024-08-07-2401,Spinning,Stockholm Södermalm,Anna Lindberg,2024-08-01,2024-08-07,18:00,Genomförd,,,
+BOK-002418,MED-10015,Bas,2023-09-02,2025-07-27,349,1997.0,PASS-2024-10-19-2418,HIIT,Stockholm City,Erik Johansson,2024-10-15,2024-10-19,19:00,Genomförd,,,
+BOK-000809,MED-10358,Bas,2022-10-16,2025-06-09,349,1988.0,PASS-2024-11-19-809,Pilates,Västerås,Klara Svensson,18/11/2024,2024-11-19,16:00,No-show,,,
+BOK-001554,MED-10176,Bas,2023-03-24,2025-06-07,349,1991.0,PASS-2024-11-01-1554,Spinning,Stockholm Södermalm,Anna Lindberg,2024-10-28,2024-11-01,11:00,Genomförd,,,
+BOK-002296,MED-10070,Bas,2023-03-30,2024-09-25,349,1992.0,PASS-2024-08-08-2296,Spinning,Malmö Centrum,Johan Bergström,2024-08-02,2024-08-08,20:00,Genomförd,"Musiken var alldeles för hög, kunde inte höra instruktionerna.",2024-08-09,2.0
+BOK-002925,MED-10250,Bas,2022-07-03,2024-12-31,349,2001.0,PASS-2024-11-01-2925,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-10-25,2024-11-01,10:00,Genomförd,,,
+BOK-000865,MED-10312,Premium,2024-01-20,2025-06-10,599,1990.0,PASS-2024-07-09-865,Styrketräning,ÖREBRO,Oscar Holm,05/07/2024,2024-07-09,17:30,Genomförd,Bästa styrketräningpasset jag varit på. Kommer tillbaka!,2024-07-10,4.0
+BOK-001046,MED-10027,Premium,2023-02-08,2025-05-27,599,1987.0,PASS-2024-12-26-1046,HIIT,,Anna Lindberg,2024-12-24,2024-12-26,07:30,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-12-26,5.0
+BOK-002939,MED-10374,Bas,2023-05-28,2024-09-08,349,1973.0,PASS-2024-08-26-2939,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-08-20,2024-08-26,09:00,Genomförd,,,
+BOK-000150,MED-10176,Bas,2023-03-24,2025-06-07,349,1991.0,PASS-2024-11-25-150,HIIT,Stockholm Södermalm,Anna Lindberg,2024-11-24,2024-11-25,18:00,Avbokad,,,
+BOK-002678,MED-10253,Student,2023-08-12,2024-11-25,249,1980.0,PASS-2024-07-16-2678,Spinning,Göteborg Hisingen,Sara Nilsson,2024-07-10,2024-07-16,18:00,Genomförd,,,
+BOK-001466,MED-10314,Bas,"July 21, 2022",2025-01-06,349,1980.0,PASS-2024-10-23-1466,HIIT,Sthlm Södermalm,Anna Lindberg,2024-10-20,2024-10-23,18:00,Genomförd,"Lugn och avslappnande hiit, precis vad jag behövde.",2024-10-24,5.0
+BOK-001581,MED-10161,Bas,2023-03-29,2025-05-07,349,1984.0,PASS-2024-08-27-1581,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-08-21,2024-08-27,17:30,Genomförd,,,
+BOK-000025,MED-10237,Premium,2023-03-09,2024-10-20,599,1988.0,PASS-2024-09-15-025,Core,Västerås,Klara Svensson,2024-09-08,2024-09-15,17:00,Genomförd,Bästa pilatespasset jag varit på. Kommer tillbaka!,2024-09-15,4.0
+BOK-002072,MED-10008,Premium,2022-09-22,2025-01-12,599,1991.0,PASS-2024-09-13-2072,SPINNING,Stockholm Södermalm,Anna Lindberg,2024-09-10,2024-09-13,18:00,Genomförd,,,
+BOK-001799,MED-10267,Student,2023-01-05,2025-01-16,249,2002.0,PASS-2024-11-04-1799,Indoor Cycling,Lund,Fredrik Berg,2024-11-02,2024-11-04,19:00,Genomförd,,,
+BOK-002593,MED-10308,Bas,2023-06-20,2024-12-05,349,1988.0,PASS-2024-10-30-2593,Boxning,Malmö Centrum,Johan Bergström,2024-10-24,2024-10-30,18:00,Genomförd,,,
+BOK-001456,MED-10241,Bas,2022-07-12,2022-05-29,349,1988.0,PASS-2024-11-12-1456,Zumba,Uppsala,Lisa Andersson,2024-11-11,2024-11-12,07:30,Genomförd,Bästa danspasset jag varit på. Kommer tillbaka!,2024-11-12,4.0
+BOK-000262,MED-10263,Bas,2022-08-10,2024-09-19,349,1998.0,PASS-2024-08-04-262,Yoga,Västerås,Klara Svensson,2024-07-30,2024-08-04,12:00,Genomförd,Standard yoga. Inget att klaga på.,2024-08-04,3.0
+BOK-000867,MED-10210,Student,15/01/2023,2024-10-15,249,1986.0,PASS-2024-12-01-867,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-11-27,2024-12-01,07:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-12-01,5.0
+BOK-000350,MED-10140,Basic,2022-09-23,2024-12-20,349,1990.0,PASS-2024-09-03-350,Yoga,Västerås,Klara Svensson,2024-08-27,2024-09-03,20:00,AVBOKAD,,,
+BOK-000731,MED-10205,PREMIUM,2023-03-17,2025-02-11,599,1997.0,PASS-2024-10-03-731,Dance,Linköping,Emma Larsson,2024-10-02,"October 03, 2024",18:30,Genomförd,,,
+BOK-000318,MED-10191,Bas,2022-12-14,2024-09-08,349,1988.0,PASS-2024-07-19-318,Styrketräning,Örebro,Oscar Holm,2024-07-16,2024-07-19,19:00,Genomförd,"Rörig planering, visste inte vad vi skulle göra.",2024-07-19,2.0
+BOK-002163,MED-10125,Premium,2024-01-29,2025-04-20,599,1969.0,PASS-2024-10-21-2163,Spinning,Örebro,Oscar Holm,2024-10-15,21 oktober 2024,16:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-10-22,4.0
+BOK-000372,MED-10248,Bas,2023-04-07,2025-06-15,349,1972.0,PASS-2024-10-05-372,Yoga,Västerås,Klara Svensson,2024-10-01,2024-10-05,18:30,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-10-05,4.0
+BOK-001253,MED-10064,Student,2022/11/24,2024-09-30,249,1985.0,PASS-2024-07-04-1253,Pilates,Västerås,Klara Svensson,2024-07-01,2024-07-04,17:30,No-show,,,
+BOK-002017,MED-10214,Bas,2023-07-06,2024-10-28,349,1989.0,PASS-2024-10-21-2017,boxning,Kungsholmen,Marcus Ek,15 oktober 2024,2024-10-21,20:00,Avbokad,,,
+BOK-001972,MED-10329,Premium,2023-01-21,2025-07-06,599,1989.0,PASS-2024-09-16-1972,H.I.I.T,Linköping,Emma Larsson,2024-09-10,2024-09-16,17:00,Genomförd,"För många deltagare, ingen plats att röra sig.",2024-09-17,2.0
+BOK-002772,MED-10230,Bas,2024-01-01,2025-04-15,349,2000.0,PASS-2024-12-16-2772,dans,Linköping C,Emma Larsson,2024-12-09,2024-12-16,16:00,No-show,,,
+BOK-002957,MED-10371,Bas,2024-03-07,2025-02-04,349,1988.0,PASS-2024-12-13-2957,Spinning,Gbg Hisingen,Sara Nilsson,8 december 2024,2024-12-13,20:30,Avbokad,,,
+BOK-002890,MED-10355,Bas,"February 15, 2023",2024-11-09,349,1998.0,PASS-2024-10-12-2890,Styrketräning,Stockholm City,Erik Johansson,2024-10-08,2024-10-12,16:00,Genomförd,,,
+BOK-002919,MED-10227,Bas,2024-03-22,2025-01-18,349,2001.0,PASS-2024-12-31-2919,pilates,Göteborg Centrum,Maria Santos,2024-12-30,2024-12-31,18:00,Genomförd,,,
+BOK-000405,MED-10206,Bas,2023-10-11,2025-06-20,349,1985.0,PASS-2024-11-03-405,HIIT,Stockholm Södermalm,Anna Lindberg,2024-10-30,2024-11-03,07:00,Genomförd,,,
+BOK-001943,MED-10210,Student,2023-01-15,2024-10-15,249,1986.0,PASS-2024-07-19-1943,Dans,UPPSALA,Lisa Andersson,2024-07-18,2024-07-19,16:00,Genomförd,,,
+BOK-001924,MED-10046,Premium,29 juni 2023,2024-10-05,599,1993.0,PASS-2024-09-25-1924,Spinning,Örebro,Oscar Holm,2024-09-21,2024-09-25,06:30,Genomförd,Professionellt och välorganiserat pass.,2024-09-25,5.0
+BOK-001737,MED-10016,Premium,2022-12-03,2025-01-02,599,2003.0,PASS-2024-11-23-1737,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-11-20,2024-11-23,17:30,Avbokad,,,
+BOK-002455,MED-10026,Bas,2023-03-27,2025-07-01,-449,2003.0,PASS-2024-07-18-2455,HIIT,Stockholm Södermalm,Anna Lindberg,2024-07-14,2024-07-18,17:30,Genomförd,,,
+BOK-000122,MED-10353,Premium,2023-02-07,2025-04-13,599,1992.0,PASS-2024-11-01-122,Spinning,Lund,Fredrik Berg,2024-10-29,2024-11-01,17:00,Avbokad,,,
+BOK-002469,MED-10078,Premium,2023-07-28,2025-07-09,599,1987.0,PASS-2024-07-04-2469,Spinning,Göteborg Hisingen,Sara Nilsson,2024-07-01,2024-07-04,06:30,Genomförd,Fantastiskt pass! Sara är så energisk och motiverande.,2024-07-05,5.0
+BOK-001026,MED-10115,Grund,2023-03-07,2024-12-17,349,1986.0,PASS-2024-12-15-1026,HIIT,Stockholm City,Erik Johansson,2024-12-13,2024-12-15,18:00,No-show,,,
+BOK-001648,MED-10232,Bas,2023-11-21,30 december 2024,349,1998.0,PASS-2024-12-28-1648,Styrketräning,Stockholm City,Erik Johansson,2024-12-27,2024-12-28,18:30,Genomförd,Fantastiskt pass! Erik är så energisk och motiverande.,2024-12-29,5.0
+BOK-002985,MED-10132,Premium,2023-08-14,2024-12-28,599,1998.0,PASS-2024-11-01-2985,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-10-25,2024-11-01,18:30,Genomförd,Toppen! Marcus är fantastisk som alltid.,2024-11-02,4.0
+BOK-002983,MED-10068,Bas,2023-10-05,2025-03-24,349,1992.0,PASS-2024-10-13-2983,Boxning,Kungsholmen,Marcus Ek,2024-10-08,2024-10-13,17:00,No-show,,,
+BOK-001259,MED-10253,Student,2023-08-12,2024-11-25,249,1980.0,PASS-2024-10-16-1259,HIIT,Stockholm Södermalm,Anna Lindberg,2024-10-15,2024-10-16,19:00,Genomförd,"Musiken var alldeles för hög, kunde inte höra instruktionerna.",2024-10-16,2.0
+BOK-002234,MED-10059,Bas,2023-04-18,2024-09-29,349,1985.0,PASS-2024-10-07-2234,Spinning,Göteborg Hisingen,Sara Nilsson,2024-10-02,2024-10-07,07:00,Genomförd,Toppen! Sara är fantastisk som alltid.,2024-10-08,4.0
+BOK-002601,MED-10372,Bas,2023-07-01,2024-11-03,349,1983.0,PASS-2024-08-09-2601,Yoga,Uppsala,Lisa Andersson,2024-08-05,2024-08-09,17:00,Avbokad,,,
+BOK-001093,MED-10344,Bas,2023-07-20,"February 19, 2025",349,1993.0,PASS-2024-09-15-1093,Styrketräning,Stockholm City,Erik Johansson,2024-09-13,2024-09-15,19:00,genomförd,,,
+BOK-001103,MED-10247,Premium,2023-05-31,2025-03-09,599,1995.0,PASS-2024-11-03-1103,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-11-02,2024-11-03,08:00,Genomförd,,,
+BOK-001389,MED-10345,Premium,2024-03-15,2025-05-18,599,,PASS-2024-12-15-1389,Spinning,Lund,Fredrik Berg,2024-12-13,2024-12-15,17:30,Genomförd,Professionellt och välorganiserat pass.,2024-12-15,4.0
+BOK-001763,MED-10227,Bas,2024-03-22,2025-01-18,349,2001.0,PASS-2024-11-30-1763,Pilates,Malmö Västra Hamnen,David Chen,2024-11-27,2024-11-30,12:00,genomförd,,,
+BOK-002227,MED-10038,Bas,2022-12-04,2024-11-02,349,2004.0,PASS-2024-11-21-2227,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-11-19,2024-11-21,17:00,Genomförd,,,
+BOK-000174,MED-10190,Student,2023-04-02,2025-07-06,249,1996.0,PASS-2024-09-11-174,Pilates,Malmö Västra Hamnen,David Chen,2024-09-10,2024-09-11,11:00,Genomförd,,,
+BOK-001289,MED-10300,Premium,2024-05-01,2024-09-30,599,2001.0,PASS-2024-07-23-1289,pilates,Malmö Västra Hamnen,David Chen,2024-07-18,23/07/2024,07:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-07-23,4.0
+BOK-001628,MED-10158,Premium,2023-07-29,2025-07-03,599,2006.0,PASS-2024-11-08-1628,hiit,Stockholm Södermalm,,2024-11-03,2024-11-08,07:30,Avbokad,,,
+BOK-002961,MED-10312,Premium,2024-01-20,2025-01-24,599,1990.0,PASS-2024-12-06-2961,Dans,Linköping,Emma Larsson,2024-12-01,2024-12-06,17:30,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-12-07,3.0
+BOK-002127,MED-10343,Bas,2023-03-13,27 juni 2025,349,1994.0,PASS-2024-09-07-2127,HIIT,Lund,Fredrik Berg,2024-09-06,2024/09/07,09:00,Genomförd,,,
+BOK-001704,MED-10153,Bas,2023-09-13,2025-03-06,349,1991.0,PASS-2024-07-17-1704,Spinning,Lund,Fredrik Berg,2024-07-11,2024-07-17,17:30,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-07-18,3.0
+BOK-000756,MED-10252,Bas,2022-07-20,2024-09-03,349,1972.0,PASS-2024-09-30-756,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-09-28,2024-09-30,20:30,Genomförd,"Helt ok, men har varit på bättre.",2024-09-30,3.0
+BOK-002547,MED-10336,Premium,2023-10-10,13 maj 2025,599,1997.0,PASS-2024-07-31-2547,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-07-30,2024-07-31,18:00,Klar,Härlig stämning i gruppen. Kul träning!,2024-07-31,5.0
+BOK-000079,MED-10356,Premium,2023-08-13,2024-10-08,599,1991.0,PASS-2024-08-12-079,Spinning,Lund,Fredrik Berg,2024-08-05,2024-08-12,20:30,Genomförd,,,
+BOK-002359,MED-10170,Bas,2022-09-30,2025-01-18,349,1998.0,PASS-2024-10-02-2359,HIIT,Lund,Fredrik Berg,2024-09-28,2024-10-02,19:00,Genomförd,Instruktören kom försent och passet blev förkortat.,2024-10-02,1.0
+BOK-001209,MED-10031,Premium,2023-09-06,2025-05-13,599,1935.0,PASS-2024-10-23-1209,Boxning,Malmö Centrum,Johan Bergström,2024-10-19,2024-10-23,16:00,Genomförd,,,
+BOK-000327,MED-10157,Student,2022-10-04,2025-01-29,249,1989.0,PASS-2024-12-03-327,Spinning,Örebro,Oscar Holm,2024-11-29,2024-12-03,18:30,Genomförd,"Besviken på Oscar, inte alls lika bra som förra gången.",2024-12-03,2.0
+BOK-000432,MED-10284,Bas,2023-05-27,2024-10-19,349,1981.0,PASS-2024-12-07-432,Fightpass,Stockholm Kungsholmen,Marcus Ek,2024-12-05,2024-12-07,07:30,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-12-07,4.0
+BOK-002992,MED-10005,Premium,2024-05-26,2024-11-19,599,1993.0,PASS-2024-07-17-2992,Dans,Linköping,Emma Larsson,2024-07-12,2024-07-17,11:00,Avbokad,,,
+BOK-002893,MED-10066,Bas,2023-12-23,2024-09-28,349,1988.0,PASS-2024-10-06-2893,Yoga,Göteborg Centrum,Maria Santos,2024-10-04,2024-10-06,17:30,Genomförd,Fantastiskt pass! Maria är så energisk och motiverande.,2024-10-07,4.0
+BOK-000442,MED-10274,Bas,2023-05-18,2024-10-24,349,1995.0,PASS-2024-11-22-442,Yoga,Västerås,Klara Svensson,2024-11-21,2024-11-22,09:00,GENOMFÖRD,,,
+BOK-001613,MED-10146,Premium,2023-07-02,8 februari 2025,599,1996.0,PASS-2024-11-08-1613,Högintensiv,Lund,Fredrik Berg,2024-11-01,2024-11-08,18:00,Genomförd,Fantastiskt pass! Fredrik är så energisk och motiverande.,2024-11-08,4.0
+BOK-001801,MED-10111,Bas,2023-11-18,2025-04-02,349,1992.0,PASS-2024-11-27-1801,Cykel,STOCKHOLM SÖDERMALM,,2024-11-26,2024-11-27,10:00,Genomförd,,,
+BOK-002592,MED-10126,Premium,2022-12-06,12 juni 2025,599,1996.0,PASS-2024-11-10-2592,Yoga,Västerås,Klara Svensson,2024-11-14,2024-11-10,09:00,Genomförd,Fantastiskt pass! Klara är så energisk och motiverande.,2024-11-11,5.0
+BOK-001255,MED-10010,Student,2022-11-14,2025-01-27,249,1994.0,PASS-2024-12-27-1255,dans,Linköping,Emma Larsson,2024-12-21,2024-12-27,17:30,Genomförd,,,
+BOK-000845,MED-10102,STUDENT,2023-09-08,2024-11-29,249,1992.0,PASS-2024-07-28-845,Boxning,Malmö Centrum,Johan Bergström,2024-07-21,2024-07-28,17:30,Cancelled,,,
+BOK-000328,MED-10296,Premium,2024-02-06,2024-10-01,599,1983.0,PASS-2024-10-21-328,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-10-19,2024-10-21,17:00,Struken,,,
+BOK-000955,MED-10342,Student,2023-05-28,2024-10-14,249,1993.0,PASS-2024-09-02-955,Spinning,Örebro,Oscar Holm,2024-08-29,2024-09-02,18:00,Genomförd,,,
+BOK-000917,MED-10249,Bas,2023-12-05,2024-10-09,349,1989.0,PASS-2024-11-22-917,Yoga,Västerås C,Klara Svensson,2024/11/20,2024-11-22,08:00,Genomförd,"Godkänt pass, lite kort kanske.",2024-11-22,3.0
+BOK-002544,MED-10270,Student,2023-10-14,2024-12-28,249,1981.0,PASS-2024-11-28-2544,Spinning,Örebro,Oscar Holm,2024-11-24,2024-11-28,20:00,Genomförd,Instruktören verkade ointresserad och omotiverande.,2024-11-29,2.0
+BOK-000139,MED-10259,Grund,2024-04-12,2025-07-06,349,1920.0,PASS-2024-10-22-139,HIIT,Södermalm,Anna Lindberg,2024-10-20,2024-10-22,19:00,Genomförd,,,
+BOK-001346,MED-10281,Bas,26 december 2023,2025-03-30,349,1991.0,PASS-2024-09-02-1346,Pilates,Västerås,Klara Svensson,2024-08-30,2024-09-02,16:00,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-09-03,3.0
+BOK-001526,MED-10086,Premium,2023-09-07,2024-11-20,599,1985.0,PASS-2024-08-03-1526,Boxning,Malmö city,Johan Bergström,2024-08-01,2024-08-03,10:00,NO-SHOW,,,
+BOK-002620,MED-10204,Student,2023-01-13,2025-04-11,249,2000.0,PASS-2024-12-30-2620,Intervall,Stockholm Kungsholmen,Marcus Ek,2024-12-23,2024-12-30,17:00,No-show,,,
+BOK-002567,MED-10046,Premium,2023-06-29,2024-10-05,599,1993.0,PASS-2024-08-20-2567,Spin,Malmö Centrum,Johan Bergström,2024-08-15,2024-08-20,07:00,Deltog,,,
+BOK-000554,MED-10201,student,2024-03-20,2024-10-22,249,1983.0,PASS-2024-12-07-554,Pilates,Västerås,Klara Svensson,2024-12-01,2024-12-07,19:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-12-08,5.0
+BOK-002013,MED-10279,Student,2023-10-05,2025-06-01,249,1996.0,PASS-2024-10-02-2013,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-29,2024-10-02,17:30,Genomförd,,,
+BOK-002323,MED-10293,Bas,2024-02-10,2025-08-03,349,1987.0,PASS-2024-09-11-2323,HIIT,Stockholm City,Erik Johansson,2024-09-10,2024-09-11,18:00,No-show,,,
+BOK-002038,MED-10049,Bas,2023-04-12,2024-12-05,349,2006.0,PASS-2024-10-06-2038,Dans,Uppsala,Lisa Andersson,2024-10-02,2024-10-06,08:00,Genomförd,Toppen! Lisa är fantastisk som alltid.,2024-10-07,4.0
+BOK-002533,MED-10025,Bas,2024-02-10,2024-11-16,349,1996.0,PASS-2024-11-01-2533,Boxning,Malmö Centrum,Johan Bergström,2024-10-27,2024-11-01,18:30,Genomförd,,,
+BOK-001630,MED-10279,Student,2023-10-05,2025/06/01,249,1996.0,PASS-2024-07-18-1630,Spin,Göteborg Hisingen,Sara Nilsson,2024-07-11,2024-07-18,19:00,No-show,,,
+BOK-000175,MED-10305,Student,2023-02-23,2025-05-15,249,1991.0,PASS-2024-10-22-175,HIIT,LINKÖPING,Emma Larsson,2024-10-15,2024-10-22,20:00,No-show,,,
+BOK-000819,MED-10362,Premium,16/06/2023,12 oktober 2024,599,1990.0,PASS-2024-12-31-819,Yoga,Västerås,Klara Svensson,2024/12/30,2024-12-31,17:00,Genomförd,Fantastiskt pass! Klara är så energisk och motiverande.,2025-01-01,4.0
+BOK-002408,MED-10133,Premium,2022-11-26,2024-11-05,599,1983.0,PASS-2024-08-30-2408,Pilates,Göteborg Centrum,Maria Santos,2024-08-27,2024-08-30,18:00,Genomförd,Professionellt och välorganiserat pass.,2024-08-31,5.0
+BOK-001680,MED-10010,Student,14 november 2022,2025-01-27,249,1994.0,PASS-2024-09-14-1680,Pilates,Göteborg Centrum,Maria Santos,2024-09-07,2024-09-14,20:00,Genomförd,Toppen! Maria är fantastisk som alltid.,2024-09-15,4.0
+BOK-002381,MED-10309,Bas,2023-07-17,2025-04-05,349,1998.0,PASS-2024-07-21-2381,Pilates,Göteborg C,Maria Santos,2024-07-20,2024-07-21,16:00,Genomförd,Gör vad det ska. Kunde varit mer utmanande.,2024-07-21,3.0
+BOK-001868,MED-10284,Bas,2023-05-27,2024-10-19,349,1981.0,PASS-2024-09-02-1868,Yoga,Göteborg Centrum,Maria Santos,2024-08-30,2024-09-02,09:00,Genomförd,,,
+BOK-000181,MED-10361,Bas,2024-03-30,2025-04-17,349,1976.0,PASS-2024-09-16-181,Pilates,Göteborg Centrum,Maria Santos,2024-09-13,2024-09-16,12:00,genomförd,Toppen! Maria är fantastisk som alltid.,2024-09-17,5.0
+BOK-000426,MED-10213,Bas,2022-11-16,2024-09-17,349,1985.0,PASS-2024-10-03-426,Spinning,Malmö Centrum,,2024-09-27,2024-10-03,19:00,Genomförd,"Godkänt pass, lite kort kanske.",2024-10-04,3.0
+BOK-002781,MED-10056,Student,2024-02-22,2024-09-24,249,1994.0,PASS-2024-10-27-2781,Yoga,Malmö Västra Hamnen,David Chen,2024-10-22,2024-10-27,18:30,Genomförd,,,
+BOK-002354,MED-10100,Premium,2023-08-21,2025-02-25,599,2001.0,PASS-2024-09-03-2354,Spinning,Stockholm Södermalm,Anna Lindberg,2024-09-02,2024-09-03,12:00,Genomförd,Bästa spinningpasset jag varit på. Kommer tillbaka!,2024-09-04,5.0
+BOK-000660,MED-10098,Student,25/07/2023,2024-12-24,249,1988.0,PASS-2024-09-28-660,Intervall,Linköping,Emma Larsson,2024/09/24,2024-09-28,17:30,No-show,,,
+BOK-001184,MED-10178,Premium,2023-11-17,2025-02-07,599,1995.0,PASS-2024-12-16-1184,Styrketräning,Hisingen,Sara Nilsson,2024-12-12,2024-12-16,19:00,Genomförd,,,
+BOK-002273,MED-10081,Student,2024-02-04,2024-10-23,249,1990.0,PASS-2024-09-19-2273,HIIT,Sthlm City,Erik Johansson,2024-09-12,2024-09-19,17:30,Genomförd,"Lugn och avslappnande hiit, precis vad jag behövde.",2024-09-19,4.0
+BOK-000591,MED-10082,Bas,2023-08-18,2025-07-05,349,1981.0,PASS-2024-12-23-591,styrka,Örebro,Oscar Holm,2024-12-16,2024-12-23,12:00,Genomförd,,,
+BOK-000888,MED-10208,Bas,2023-12-05,2025-04-27,349,1989.0,PASS-2024-07-13-888,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-07-10,2024-07-13,17:30,Genomförd,,,
+BOK-000852,MED-10336,Premium,2023-10-10,2025-05-13,599,,PASS-2024-07-26-852,Dans,Linköping,Emma Larsson,24 juli 2024,2024-07-26,11:00,Genomförd,,,
+BOK-002704,MED-10181,Bas,2023-11-16,2024-11-10,349,2005.0,PASS-2024-11-06-2704,Högintensiv,Linköping,Emma Larsson,"November 05, 2024",2024-11-06,17:00,Genomförd,,,
+BOK-000655,MED-10046,Premium,2023-06-29,2024-10-05,599,1993.0,PASS-2024-10-19-655,Boxning,STOCKHOLM KUNGSHOLMEN,Marcus Ek,2024-10-17,2024-10-19,16:00,Avbokad,,,
+BOK-001163,MED-10332,Bas,2024-04-16,2024-12-20,349,1994.0,PASS-2024-08-03-1163,Boxning,Malmö Centrum,Johan Bergström,2024-07-28,2024-08-03,09:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-08-04,4.0
+BOK-000606,MED-10120,Premium,2024-03-19,2025-04-20,599,1982.0,PASS-2024-11-03-606,Intervall,Stockholm Södermalm,Anna Lindberg,2024-11-01,2024-11-03,17:30,Genomförd,,,
+BOK-000160,MED-10022,Premium,"November 05, 2022",2025-06-01,599,1992.0,PASS-2024-08-10-160,H.I.I.T,Stockholm Södermalm,Anna Lindberg,2024-08-06,2024-08-10,10:00,Genomförd,,,
+BOK-002495,MED-10350,Premium,2023-01-13,2025-04-24,599,1991.0,PASS-2024-10-14-2495,Yoga,Göteborg Centrum,Maria Santos,2024-10-10,2024-10-14,16:00,Genomförd,Fantastiskt pass! Maria är så energisk och motiverande.,2024-10-14,5.0
+BOK-002203,MED-10246,Premium,2024-05-03,2024-09-22,599,1990.0,PASS-2024-07-11-2203,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-07-05,2024-07-11,18:00,Genomförd,,,
+BOK-002835,MED-10329,Premium,2023-01-21,2025-07-06,599,1989.0,PASS-2024-09-13-2835,boxning,Stockholm Kungsholmen,Marcus Ek,2024-09-08,2024-09-13,19:00,Genomförd,Standard boxning. Inget att klaga på.,2024-09-13,3.0
+BOK-001798,MED-10156,Bas,2023-05-14,2024-10-18,349,1975.0,PASS-2024-12-15-1798,Vinyasa,Malmö Västra Hamnen,David Chen,2024-12-12,2024-12-15,18:00,Genomförd,,,
+BOK-002861,MED-10341,Premium,2023-07-05,2024-11-25,599,1989.0,PASS-2024-10-18-2861,SPINNING,Örebro,Oscar Holm,2024-10-12,2024-10-18,19:00,Genomförd,"Helt ok, men har varit på bättre.",2024-10-19,3.0
+BOK-001595,MED-10250,Bas,03/07/2022,2022-03-12,349,2001.0,PASS-2024-09-15-1595,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-08,2024-09-15,12:00,AVBOKAD,,,
+BOK-000847,MED-10117,Premium,2022-08-23,13/07/2025,599,,PASS-2024-08-25-847,Dans,Linköping C,Emma Larsson,2024-08-22,2024-08-25,10:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-08-26,5.0
+BOK-000030,MED-10277,Bas,2023-07-28,"July 28, 2025",349,2030.0,PASS-2024-11-17-030,Yoga,Västerås,Klara Svensson,2024-11-10,2024-11-17,17:00,Deltog,"Helt ok, men har varit på bättre.",2024-11-17,3.0
+BOK-000877,MED-10189,Premium,2023-07-26,2024-10-12,599,2004.0,PASS-2024-08-08-877,pilates,Malmö Västra Hamnen,David Chen,2024-08-02,2024-08-08,07:00,Genomförd,Medelmåttigt. Varken bra eller dåligt.,2024-08-08,3.0
+BOK-002322,MED-10374,Bas,28 maj 2023,2024-09-08,349,1973.0,PASS-2024-10-23-2322,HIIT,Stockholm Södermalm,Anna Lindberg,2024-10-22,"October 23, 2024",19:00,Avbokad,,,
+BOK-000811,MED-10132,Premium,2023-08-14,2024-12-28,599,1998.0,PASS-2024-07-19-811,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-07-13,2024-07-19,17:00,Genomförd,,,
+BOK-000171,MED-10243,Premium,2022-08-25,2025-01-24,599,1983.0,PASS-2024-08-06-171,HIIT,Linköping,Emma Larsson,2024-08-01,2024-08-06,07:00,Genomförd,"Godkänt pass, lite kort kanske.",2024-08-06,3.0
+BOK-002370,MED-10046,Premium,2023-06-29,2024-10-05,599,1993.0,PASS-2024-10-10-2370,Dans,,Lisa Andersson,2024-10-09,2024-10-10,10:00,Klar,"Underbar träning, kommer definitivt igen!",2024-10-11,5.0
+BOK-000292,MED-10344,Bas,2023-07-20,2025-02-19,349,1993.0,PASS-2024-10-15-292,Spinning,Malmö Centrum,Johan Bergström,2024-10-11,2024/10/15,19:00,Avbokad,,,
+BOK-000321,MED-10036,Premium,2023-07-23,2024-12-30,599,1989.0,PASS-2024-07-10-321,Spinning,Göteborg Hisingen,Sara Nilsson,2024-07-06,2024-07-10,18:30,Genomförd,Medelmåttigt. Varken bra eller dåligt.,2024-07-11,3.0
+BOK-002611,MED-10032,Bas,2024/02/14,2024-09-26,349,,PASS-2024-11-15-2611,HIIT,Stockholm City,Erik Johansson,2024-11-10,2024-11-15,10:00,Genomförd,,,
+BOK-002945,MED-10112,Bas,2023-12-06,2025-07-11,349,1990.0,PASS-2024-11-01-2945,Spinning,GÖTEBORG HISINGEN,Sara Nilsson,2024-10-25,2024-11-01,18:30,Avbokad,,,
+BOK-000939,MED-10238,Bas,2024-01-06,2025-03-27,349,1994.0,PASS-2024-09-16-939,Spinning,Lund,Fredrik Berg,2024-09-15,2024-09-16,12:00,Avbokad,,,
+BOK-001457,MED-10085,Grund,2024/04/17,2024-11-02,349,1992.0,PASS-2024-11-14-1457,H.I.I.T,Stockholm Södermalm,Anna Lindberg,2024-11-07,2024-11-14,08:00,Genomförd,"Helt ok, men har varit på bättre.",2024-11-14,3.0
+BOK-001204,MED-10002,Premium,2024-05-02,2024-10-16,599,1985.0,PASS-2024-07-04-1204,Spinning,Lund,Fredrik Berg,2024-06-28,2024-07-04,17:30,Genomförd,,,
+BOK-001770,MED-10199,Bas,2022-07-25,2024-12-09,349,2004.0,PASS-2024-12-22-1770,Styrketräning,Stockholm City,Erik Johansson,16/12/2024,2024-12-22,08:00,Avbokad,,,
+BOK-001125,MED-10054,Bas,2023-11-27,2025-01-19,349,1984.0,PASS-2024-07-13-1125,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-07-06,2024-07-13,18:00,Genomförd,,,
+BOK-002066,MED-10094,Student,2023-04-06,2024-09-11,249,1997.0,PASS-2024-12-17-2066,Boxning,Malmö C,Johan Bergström,2024-12-10,2024-12-17,07:30,Avbokad,,,
+BOK-000443,MED-10071,Bas,2023-09-08,2024-12-12,349,1979.0,PASS-2024-07-30-443,Yoga,Gbg Centrum,Maria Santos,2024-07-27,2024-07-30,12:00,Genomförd,,,
+BOK-001956,MED-10099,Premium,2023-04-20,2023-01-22,599,1996.0,PASS-2024-12-14-1956,Vinyasa,Göteborg Centrum,Maria Santos,2024-12-07,2024-12-14,18:30,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-12-14,4.0
+BOK-002312,MED-10025,Bas,2024-02-10,2024-11-16,349,1996.0,PASS-2024-10-18-2312,Spinning,Stockholm Södermalm,Anna Lindberg,2024-10-16,2024-10-18,17:30,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-10-19,4.0
+BOK-002933,MED-10062,Bas,2022-11-10,2024-11-12,349,2005.0,PASS-2024-08-13-2933,Yoga,Uppsala,Lisa Andersson,2024-08-07,2024-08-13,17:00,NO-SHOW,,,
+BOK-002000,MED-10112,Bas,2023-12-06,2025-07-11,349,1990.0,PASS-2024-10-21-2000,Hatha Yoga,Göteborg Centrum,Maria Santos,2024-10-15,2024-10-21,07:00,Genomförd,,,
+BOK-000072,MED-10049,Bas,2023-04-12,2024-12-05,349,2006.0,PASS-2024-09-14-072,Yoga,Malmö VH,David Chen,2024-09-08,2024-09-14,18:00,Genomförd,Standard yoga. Inget att klaga på.,2024-09-14,3.0
+BOK-000998,MED-10001,Premium,2022-07-10,2025-06-05,599,1998.0,PASS-2024-10-21-998,Spinning,Lund,Fredrik Berg,2024-10-15,2024-10-21,16:00,Genomförd,Gör vad det ska. Kunde varit mer utmanande.,2024-10-22,3.0
+BOK-001147,MED-10013,Bas,2023-10-07,2024-10-20,349,2006.0,PASS-2024-12-20-1147,Spinning,Malmö C,Johan Bergström,2024-12-19,2024-12-20,16:00,Genomförd,,,
+BOK-001343,MED-10064,Student,2022-11-24,2024-09-30,249,1985.0,PASS-2024-10-15-1343,Styrketräning,Stockholm City,Erik Johansson,08/10/2024,2024-10-15,18:00,Genomförd,,,
+BOK-001757,MED-10091,Student,2023-09-20,2024-10-21,249,1985.0,PASS-2024-09-28-1757,Cykel,STOCKHOLM SÖDERMALM,Anna Lindberg,2024-09-25,2024-09-28,17:00,genomförd,Instruktören var superbra på att korrigera tekniken.,2024-09-28,5.0
+BOK-001412,MED-10070,Bas,2023-03-30,2024-11-24,349,2026.0,PASS-2024-10-10-1412,Styrketräning,Stockholm City,Erik Johansson,2024-10-04,2024-10-10,17:00,Genomförd,,,
+BOK-001229,MED-10036,Premium,2023-07-23,2024-12-30,599,1989.0,PASS-2024-10-15-1229,Yoga,UPPSALA,Lisa Andersson,2024-10-09,2024-10-15,17:30,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-10-15,5.0
+BOK-002400,MED-10008,Premium,2022-09-22,2025-01-12,599,1991.0,PASS-2024-09-10-2400,Spinning,Örebro,Oscar Holm,2024-09-08,2024-09-10,17:00,Genomförd,"Helt ok, men har varit på bättre.",2024-09-11,3.0
+BOK-001484,MED-10251,Grund,2023-10-08,2025-04-23,349,1984.0,PASS-2024-07-08-1484,Vinyasa,Uppsala,Lisa Andersson,2024-07-04,2024-07-08,17:00,Genomförd,,,
+BOK-001436,MED-10202,Premium,2022-10-28,2025-01-24,599,1978.0,PASS-2024-12-12-1436,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-12-06,2024-12-12,18:30,Klar,,,
+BOK-001520,MED-10267,Studerande,2023-01-05,2025-01-16,249,2002.0,PASS-2024-09-16-1520,YOGA,Malmö Västra Hamnen,David Chen,2024-09-14,2024-09-16,17:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-09-16,4.0
+BOK-001693,MED-10156,Bas,2023-05-14,2024-10-18,349,,PASS-2024-07-29-1693,Styrketräning,Stockholm City,Erik Johansson,2024-07-22,2024-07-29,18:00,No-show,,,
+BOK-002458,MED-10326,Bas,2023-07-18,2025-02-12,349,1983.0,PASS-2024-12-10-2458,Spinning,Stockholm Södermalm,Anna Lindberg,2024-12-06,2024-12-10,17:30,genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-12-10,3.0
+BOK-000840,MED-10180,Premium,2022-10-07,2022-04-30,599,1983.0,PASS-2024-08-28-840,Core,Västerås,Klara Svensson,21 augusti 2024,2024-08-28,17:00,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-08-29,5.0
+BOK-000568,MED-10221,Premium,2023-04-11,2024-10-16,599,2004.0,PASS-2024-10-20-568,Pilates,Västerås,Klara Svensson,2024-10-19,2024-10-20,12:00,Struken,,,
+BOK-001869,MED-10296,Premium,2024-02-06,2024-10-01,599,1983.0,PASS-2024-10-11-1869,Dans,Linköping,Emma Larsson,2024-10-09,2024-10-11,18:30,GENOMFÖRD,"Lugn och avslappnande dans, precis vad jag behövde.",2024-10-11,5.0
+BOK-002237,MED-10171,bas,2023-11-19,2024-10-12,349,1995.0,PASS-2024-12-18-2237,HIIT,Stockholm Södermalm,Anna Lindberg,2024-12-17,2024-12-18,17:00,Genomförd,,,
+BOK-002244,MED-10119,Premium,2024-05-07,2024-09-22,599,1986.0,PASS-2024-09-13-2244,Yoga,Malmö Västra Hamnen,David Chen,2024-09-11,2024-09-13,07:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-09-14,4.0
+BOK-000993,MED-10325,Premium,2023-05-13,2025-04-01,599,2001.0,PASS-2024-08-29-993,Styrketräning,Stockholm City,Erik Johansson,2024-08-25,2024-08-29,17:00,Genomförd,"Lugn och avslappnande styrketräning, precis vad jag behövde.",2024-08-29,4.0
+BOK-001302,MED-10349,Bas,2022-07-31,2024-10-07,349,1995.0,PASS-2024-09-01-1302,Styrketräning,Örebro,Oscar Holm,2024-08-30,2024-09-01,17:00,Genomförd,Standard styrketräning. Inget att klaga på.,2024-09-02,3.0
+BOK-001579,MED-10122,Bas,2022-07-31,2024-09-01,349,1975.0,PASS-2024-12-11-1579,Zumba,Uppsala,Lisa Andersson,2024-12-06,2024-12-11,07:00,Genomförd,,,
+BOK-000320,MED-10123,Student,2024-02-13,2025-04-04,249,1999.0,PASS-2024-07-20-320,HIIT,Linköping,Emma Larsson,19 juli 2024,2024-07-20,20:00,Genomförd,,,
+BOK-002657,MED-10373,bas,2022-12-10,2024-10-16,349,,PASS-2024-07-27-2657,Yoga,Göteborg Centrum,Maria Santos,22/07/2024,2024-07-27,18:30,Genomförd,,,
+BOK-002266,MED-10071,Bas,2023-09-08,2025-02-01,349,1979.0,PASS-2024-12-29-2266,Yoga,Göteborg Centrum,Maria Santos,2024-12-23,2024-12-29,12:00,Genomförd,Toppen! Maria är fantastisk som alltid.,2024-12-29,4.0
+BOK-001675,MED-10271,Student,2023-05-24,2024-10-15,249,2005.0,PASS-2024-09-26-1675,boxning,Malmö Centrum,Johan Bergström,2024-09-19,2024-09-26,19:00,Genomförd,,,
+BOK-001418,MED-10053,Student,2023-11-18,2025-01-03,249,1985.0,PASS-2024-09-05-1418,Spinning,Malmö Centrum,Johan Bergström,2024-09-03,2024-09-05,12:00,Genomförd,,,
+BOK-000496,MED-10323,Bas,2024-01-07,2025-06-15,349,1976.0,PASS-2024-09-13-496,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-06,2024-09-13,11:00,Genomförd,,,
+BOK-002724,MED-10353,Premium,2023-02-07,2025-04-13,599,1992.0,PASS-2024-10-31-2724,Spinning,Lund,Fredrik Berg,2024-10-26,2024-10-31,20:00,Genomförd,,,
+BOK-002100,MED-10087,Bas,2023-03-22,2025-06-13,349,1989.0,PASS-2024-08-09-2100,HIIT,Linköping,Emma Larsson,2024-08-06,2024-08-09,20:00,Genomförd,Toppen! Emma är fantastisk som alltid.,2024-08-10,5.0
+BOK-000406,MED-10193,Gold,2022-09-16,2024-10-19,599,2004.0,PASS-2024-10-20-406,HIIT,Stockholm City,Erik Johansson,2024-10-19,2024-10-20,06:30,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-10-20,4.0
+BOK-001890,MED-10051,Bas,2024-04-07,2025-07-30,349,1991.0,PASS-2024-11-06-1890,Spinning,MALMÖ CENTRUM,Johan Bergström,2024-11-05,"November 06, 2024",07:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-11-06,5.0
+BOK-002646,MED-10366,Bas,2024-04-09,2025-07-19,349,1993.0,PASS-2024-11-04-2646,Pilates,Malmö Västra Hamnen,David Chen,2024-10-29,2024-11-04,17:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-11-04,4.0
+BOK-001688,MED-10079,Student,2022-12-08,2024-09-03,249,2006.0,PASS-2024-11-22-1688,Pilates,Malmö Västra Hamnen,David Chen,2024-11-21,2024-11-22,17:00,GENOMFÖRD,,,
+BOK-000235,MED-10022,Premium,2022-11-05,2025-06-01,599,1992.0,PASS-2024-07-25-235,Spinning,Malmö Centrum,Johan Bergström,2024-07-19,2024-07-25,09:00,genomförd,"Lugn och avslappnande spinning, precis vad jag behövde.",2024-07-26,4.0
+BOK-000622,MED-10149,Bas,2024-04-09,2025-02-25,349,1994.0,PASS-2024-12-17-622,HIIT,Stockholm Södermalm,Anna Lindberg,2024-12-10,2024-12-17,07:00,Genomförd,,,
+BOK-000469,MED-10047,Grund,2023-01-21,2024-12-17,349,1978.0,PASS-2024-10-15-469,Pilates,Malmö Västra Hamnen,David Chen,2024-10-13,2024-10-15,07:30,Genomförd,,,
+BOK-001175,MED-10254,Premium,2023-06-14,2025-02-10,599,2003.0,PASS-2024-09-26-1175,Styrketräning,Stockholm City,Erik Johansson,2024-09-22,2024-09-26,11:00,genomförd,Fantastiskt pass! Erik är så energisk och motiverande.,2024-09-27,5.0
+BOK-002392,MED-10350,Plus,2023-01-13,2025-04-24,599,1991.0,PASS-2024-07-15-2392,Boxning,Malmö Centrum,Johan Bergström,2024-07-12,"July 15, 2024",07:30,Avbokad,,,
+BOK-000842,MED-10176,Bas,2023-03-24,2025-06-07,349,1991.0,PASS-2024-12-10-842,Yoga,Västerås,Klara Svensson,2024-12-09,2024-12-10,09:00,Avbokad,,,
+BOK-001168,MED-10116,Bas,2023-12-11,2025-08-02,349,2025.0,PASS-2024-08-29-1168,Styrketräning,Sthlm City,Erik Johansson,2024-08-27,2024-08-29,17:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-08-29,4.0
+BOK-002161,MED-10289,Student,2023-11-04,2024-10-04,249,1998.0,PASS-2024-11-17-2161,Pilates,Malmö Västra Hamnen,David Chen,2024-11-10,2024-11-17,17:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-11-17,5.0
+BOK-001156,MED-10226,Bas,"September 27, 2022",2024-12-15,349,1990.0,PASS-2024-10-27-1156,Styrketräning,Örebro,Oscar Holm,2024-10-20,2024-10-27,09:00,Genomförd,Bästa styrketräningpasset jag varit på. Kommer tillbaka!,2024-10-27,5.0
+BOK-001212,MED-10338,Bas,2023-03-13,2024-09-08,349,1993.0,PASS-2024-10-23-1212,Styrketräning,Örebro,Oscar Holm,2024-10-20,2024-10-23,10:00,No-show,,,
+BOK-000417,MED-10319,Premium,2022-11-05,2024-12-31,599,1992.0,PASS-2024-07-18-417,Dans,,Lisa Andersson,2024-07-17,2024-07-18,19:00,Genomförd,,,
+BOK-001266,MED-10156,Bas,2023-05-14,2024-10-18,349,1975.0,PASS-2024-09-20-1266,HIIT,Stockholm City,Erik Johansson,2024-09-15,2024-09-20,18:00,Deltog,,,
+BOK-000470,MED-10271,Student,2023-05-24,2024-10-15,249,2005.0,PASS-2024-09-09-470,Spin,Göteborg Hisingen,Sara Nilsson,2024-09-02,2024-09-09,12:00,Avbokad,,,
+BOK-001018,MED-10234,Premium,2023-05-08,2025-03-15,599,1971.0,PASS-2024-08-20-1018,Spinning,Stockholm Södermalm,Anna Lindberg,2024-08-16,2024-08-20,17:30,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-08-21,5.0
+BOK-000752,MED-10007,Student,2024-02-28,2025-03-12,249,1980.0,PASS-2024-09-19-752,Yoga,Uppsala,,2024-09-16,2024-09-19,18:30,Genomförd,Professionellt och välorganiserat pass.,2024-09-20,4.0
+BOK-000985,MED-10315,STUDENT,2023-08-12,2024-10-11,249,1996.0,PASS-2024-09-11-985,Spinning,Örebro,Oscar Holm,2024-09-05,2024-09-11,20:00,Klar,"Besviken på Oscar, inte alls lika bra som förra gången.",2024-09-12,1.0
+BOK-000424,MED-10007,Student,2024-02-28,12 mars 2025,249,1980.0,PASS-2024-10-02-424,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-30,2024-10-02,07:30,Avbokad,,,
+BOK-000567,MED-10024,Basic,2024-01-12,2025-05-17,349,2003.0,PASS-2024-07-22-567,Pilates,,David Chen,2024-07-23,2024-07-22,12:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-07-23,4.0
+BOK-001022,MED-10244,Student,2023-03-15,2024-10-19,249,2006.0,PASS-2024-09-11-1022,Spinning,Örebro,Oscar Holm,2024-09-05,2024-09-11,07:00,Genomförd,Alldeles för hög nivå för nybörjare. Ingen anpassning.,2024-09-11,1.0
+BOK-001761,MED-10097,STUDENT,2023-10-18,2024-12-10,249,1985.0,PASS-2024-11-22-1761,Dans,UPPSALA,Lisa Andersson,2024-11-15,2024-11-22,18:00,Genomförd,Fantastiskt pass! Lisa är så energisk och motiverande.,2024-11-23,5.0
+BOK-001787,MED-10101,Bas,2022-11-30,2025-02-15,-349,1994.0,PASS-2024-09-08-1787,HIIT,Sthlm Södermalm,Anna Lindberg,2024-09-07,2024-09-08,07:30,Genomförd,,,
+BOK-002733,MED-10312,Premium,2024-01-20,2025-01-24,599,1990.0,PASS-2024-10-30-2733,HIIT,STOCKHOLM SÖDERMALM,Anna Lindberg,2024-10-26,2024-10-30,17:30,genomförd,"Lugn och avslappnande hiit, precis vad jag behövde.",2024-10-31,5.0
+BOK-001913,MED-10189,Premium,2023-07-26,2024-10-12,599,2004.0,PASS-2024-07-03-1913,Yoga,Uppsala,Lisa Andersson,2024/07/01,2024-07-03,07:00,Genomförd,Professionellt och välorganiserat pass.,2024-07-04,4.0
+BOK-000880,MED-10335,premium,2023-01-09,2025-04-07,599,1994.0,PASS-2024-09-24-880,pilates,Västerås,Klara Svensson,2024-09-21,2024-09-24,11:00,GENOMFÖRD,,,
+BOK-002441,MED-10297,Bas,2022-12-24,2025-06-29,349,1991.0,PASS-2024-10-18-2441,Dans,Uppsala,Lisa Andersson,2024-10-12,2024-10-18,09:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-10-19,5.0
+BOK-001450,MED-10172,Premium,2022-11-11,2024-12-31,599,1991.0,PASS-2024-10-31-1450,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-10-27,2024-10-31,08:00,Avbokad,,,
+BOK-000408,MED-10216,Bas,2023-04-05,2024-09-26,349,1998.0,PASS-2024-09-05-408,Pilates,Västerås,Klara Svensson,2024-08-30,2024-09-05,08:00,Genomförd,,,
+BOK-000765,MED-10105,Bas,2023-05-04,2025/06/21,349,1985.0,PASS-2024-10-14-765,Zumba,Linköping,,2024-10-13,2024-10-14,18:30,GENOMFÖRD,Gör vad det ska. Kunde varit mer utmanande.,2024-10-14,3.0
+BOK-001641,MED-10238,Bas,2024-01-06,2025-03-27,349,1994.0,PASS-2024-12-03-1641,Spinning,Göteborg Hisingen,Sara Nilsson,2024-11-28,2024-12-03,17:00,Deltog,,,
+BOK-000531,MED-10089,Premium,2022-11-14,2024-11-13,599,1986.0,PASS-2024-07-01-531,Yoga,Malmö VH,David Chen,2024-06-28,2024-07-01,07:30,Genomförd,"Underbar träning, kommer definitivt igen!",2024-07-02,5.0
+BOK-002476,MED-10244,Student,2023-03-15,2024-10-19,249,2006.0,PASS-2024-09-30-2476,YOGA,Västerås,Klara Svensson,2024-09-24,2024-09-30,18:00,genomförd,,,
+BOK-000106,MED-10216,Bas,2023-04-05,2024-09-26,349,1998.0,PASS-2024-08-02-106,Yoga,Malmö Västra Hamnen,David Chen,29/07/2024,2024-08-02,16:00,Genomförd,Bästa yogapasset jag varit på. Kommer tillbaka!,2024-08-03,5.0
+BOK-001000,MED-10240,Bas,2022-09-02,2025-03-21,349,1993.0,PASS-2024-12-20-1000,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-12-16,2024-12-20,09:00,Genomförd,,,
+BOK-002134,MED-10270,Studerande,2023-10-14,2025-03-21,-349,1981.0,PASS-2024-10-30-2134,Spinning,Södermalm,Anna Lindberg,2024-10-25,2024-10-30,17:00,Genomförd,,,
+BOK-002336,MED-10153,Bas,2023-09-13,2025-03-06,349,1991.0,PASS-2024-08-06-2336,HIIT,,Emma Larsson,2024-08-04,2024-08-06,07:00,Genomförd,Instruktören kom försent och passet blev förkortat.,2024-08-07,2.0
+BOK-001276,MED-10317,Premium,2024-02-12,2025-02-25,599,1991.0,PASS-2024-07-24-1276,Spinning,Örebro,Oscar Holm,2024-07-21,2024-07-24,18:30,Genomförd,,,
+BOK-000314,MED-10104,Bas,2023-07-16,2025-04-10,349,1992.0,PASS-2024-09-02-314,HIIT,Stockholm City,Erik Johansson,2024-08-28,2024-09-02,06:30,No-show,,,
+BOK-001072,MED-10076,Bas,2024-01-18,2025-02-24,349,1988.0,PASS-2024-11-04-1072,Boxning,,Marcus Ek,2 november 2024,2024-11-04,10:00,No-show,,,
+BOK-002472,MED-10308,Bas,2023-06-20,2024-12-05,349,1988.0,PASS-2024-10-09-2472,HIIT,Stockholm Södermalm,Anna Lindberg,2024-10-08,2024-10-09,17:30,No-show,,,
+BOK-000744,MED-10347,Bas,2022-08-11,13/11/2024,349,2006.0,PASS-2024-07-18-744,Spinning,Lund,Fredrik Berg,2024-07-11,2024-07-18,12:00,Avbokad,,,
+BOK-001193,MED-10076,Bas,2024-01-18,24/02/2025,349,1988.0,PASS-2024-07-15-1193,Core,Gbg Centrum,Maria Santos,2024-07-10,2024-07-15,12:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-07-16,5.0
+BOK-001142,MED-10333,bas,2024-05-25,2024-12-12,-349,1997.0,PASS-2024-10-25-1142,Spinning,Malmö Centrum,Johan Bergström,2024-10-20,2024-10-25,17:00,Genomförd,,,
+BOK-000397,MED-10364,Student,2022-09-16,2024-11-19,249,1986.0,PASS-2024-08-20-397,Spinning,Örebro,,2024-08-15,2024-08-20,18:00,No-show,,,
+BOK-002143,MED-10284,Bas,"May 27, 2023",2024-10-19,349,1981.0,PASS-2024-10-04-2143,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-09-28,2024-10-04,17:00,Genomförd,Professionellt och välorganiserat pass.,2024-10-04,5.0
+BOK-000799,MED-10148,Bas,2023-09-17,2024-10-10,349,1983.0,PASS-2024-10-20-799,HIIT,Stockholm City,Erik Johansson,2024-10-15,2024-10-20,20:00,Genomförd,Alldeles för hög nivå för nybörjare. Ingen anpassning.,2024-10-20,2.0
+BOK-000645,MED-10071,Bas,2023-09-08,2024-11-24,349,1979.0,PASS-2024-09-27-645,Högintensiv,Lund,Fredrik Berg,2024-09-26,2024-09-27,07:00,Genomförd,"Rörig planering, visste inte vad vi skulle göra.",2024-09-27,2.0
+BOK-000515,MED-10053,Student,2023-11-18,2025-01-03,249,1985.0,PASS-2024-10-23-515,Pilates,Västerås,Klara Svensson,2024-10-18,2024-10-23,17:00,Genomförd,"För många deltagare, ingen plats att röra sig.",2024-10-24,2.0
+BOK-002777,MED-10027,Premium,2023-02-08,2025-05-27,599,,PASS-2024-11-07-2777,Dans,Uppsala,Lisa Andersson,2024-10-31,2024-11-07,08:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-11-07,5.0
+BOK-002478,MED-10052,STUDENT,2023-04-16,2025-02-19,249,1995.0,PASS-2024-12-09-2478,HIIT,Stockholm Södermalm,Anna Lindberg,2024-12-07,9 december 2024,18:00,Avbokad,,,
+BOK-000383,MED-10194,Student,2023-10-29,2025-01-12,249,1991.0,PASS-2024-08-20-383,Styrketräning,Örebro C,Oscar Holm,2024-08-14,2024-08-20,19:00,No-show,,,
+BOK-002492,MED-10100,Premium,2023-08-21,2025-02-25,599,2001.0,PASS-2024-10-14-2492,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-10-08,2024-10-14,17:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-10-15,4.0
+BOK-001097,MED-10110,Bas,3 juli 2023,2025-03-24,349,2006.0,PASS-2024-12-08-1097,HIIT,Stockholm City,Erik Johansson,2024-12-05,2024-12-08,06:30,NO-SHOW,,,
+BOK-001734,MED-10313,Premium,2022-11-04,2025-02-14,599,1992.0,PASS-2024-10-08-1734,Yoga,Malmö Västra Hamnen,David Chen,2024-10-01,2024-10-08,17:30,Genomförd,,,
+BOK-001007,MED-10169,Student,2023-10-28,2025-02-27,249,1999.0,PASS-2024-10-29-1007,Dans,Uppsala,Lisa Andersson,2024-10-22,2024-10-29,18:30,No-show,,,
+BOK-001780,MED-10313,Premium,2022-11-04,2025-02-14,599,1992.0,PASS-2024-11-30-1780,Gympass,Örebro,Oscar Holm,2024-11-25,2024-11-30,17:30,Genomförd,,,
+BOK-001533,MED-10333,Bas,2024-05-25,2024-12-12,349,,PASS-2024-12-25-1533,Yoga,Malmö Västra Hamnen,David Chen,2024-12-22,2024-12-25,10:00,Genomförd,,,
+BOK-001772,MED-10224,Student,2023-08-27,2025-03-30,249,1990.0,PASS-2024-09-29-1772,Yoga,Malmö Västra Hamnen,David Chen,2024-09-23,2024-09-29,17:30,Avbokad,,,
+BOK-001336,MED-10001,PREMIUM,2022-07-10,2025-06-05,599,1998.0,PASS-2024-10-15-1336,HIIT,Lund,Fredrik Berg,09/10/2024,2024-10-15,10:00,Genomförd,,,
+BOK-001829,MED-10007,Student,2024-02-28,2024-09-25,249,1980.0,PASS-2024-09-26-1829,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-20,2024-09-26,17:00,Genomförd,,,
+BOK-000069,MED-10346,Bas,16/11/2023,2025-02-24,349,2003.0,PASS-2024-08-26-069,Boxning,Malmö Centrum,Johan Bergström,2024-08-29,2024-08-26,17:30,Avbokad,,,
+BOK-002887,MED-10027,Premium,2023-02-08,2024-10-19,599,1987.0,PASS-2024-09-13-2887,Styrketräning,Örebro,Oscar Holm,2024-09-10,2024-09-13,17:00,Genomförd,Instruktören verkade ointresserad och omotiverande.,2024-09-14,2.0
+BOK-002853,MED-10243,Premium,2022-08-25,2025-01-24,599,1983.0,PASS-2024-10-08-2853,Spinning,Örebro,Oscar Holm,2024-10-02,2024-10-08,17:30,Genomförd,,,
+BOK-001096,MED-10081,Student,2024-02-04,2024-10-23,249,1990.0,PASS-2024-10-01-1096,Spinning,,Johan Bergström,2024-09-25,2024-10-01,19:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-10-01,5.0
+BOK-001081,MED-10295,Bas,2023-09-04,2024-09-25,349,1995.0,PASS-2024-12-24-1081,Hatha Yoga,Malmö Västra Hamnen,David Chen,2024-12-20,2024-12-24,16:00,Genomförd,Professionellt och välorganiserat pass.,2024-12-24,4.0
+BOK-000056,MED-10370,Premium,2022-07-31,2025-08-04,599,1990.0,PASS-2024-11-24-056,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-11-18,2024-11-24,06:30,Deltog,,,
+BOK-002785,MED-10012,Premium,2022-07-25,2024-12-24,599,1988.0,PASS-2024-12-28-2785,Spinning,Göteborg Hisingen,Sara Nilsson,2024-12-21,2024-12-28,07:00,Genomförd,,,
+BOK-002528,MED-10080,Bas,2022-07-23,2024-10-22,349,1993.0,PASS-2024-11-10-2528,Boxning,Malmö Centrum,Johan Bergström,2024-11-03,2024-11-10,17:30,No-show,,,
+BOK-002433,MED-10323,Bas,2024-01-07,2025-06-15,-349,1976.0,PASS-2024-12-08-2433,Fightpass,Malmö Centrum,Johan Bergström,2024-12-05,2024-12-08,07:00,Genomförd,,,
+BOK-001875,MED-10206,Bas,2023-10-11,2025-02-15,349,1985.0,PASS-2024-12-20-1875,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-12-14,2024-12-20,16:00,Genomförd,Alldeles för hög nivå för nybörjare. Ingen anpassning.,2024-12-21,2.0
+BOK-002579,MED-10048,Bas,2022-10-26,2025-06-21,349,1994.0,PASS-2024-12-05-2579,pilates,Malmö Västra Hamnen,David Chen,2024-12-01,2024-12-05,11:00,Genomförd,,,
+BOK-002633,MED-10345,Premium,2024-03-15,2025-05-18,599,1992.0,PASS-2024-11-18-2633,HIIT,Stockholm City,Erik Johansson,2024-11-12,2024-11-18,18:30,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-11-19,5.0
+BOK-000571,MED-10060,Premium,2023-04-29,2024-08-30,599,1993.0,PASS-2024-09-19-571,Pilates,Malmö Västra Hamnen,David Chen,2024-09-13,2024-09-19,16:00,Struken,,,
+BOK-000305,MED-10099,Premium,2023-04-20,2025-02-14,599,1996.0,PASS-2024-10-17-305,Yoga,Uppsala,Lisa Andersson,2024-10-12,2024-10-17,12:00,Genomförd,Gör vad det ska. Kunde varit mer utmanande.,2024-10-17,3.0
+BOK-001897,MED-10298,Premium,2022-09-11,2024-09-21,599,1982.0,PASS-2024-08-21-1897,Spinning,Stockholm Södermalm,Anna Lindberg,2024-08-16,2024-08-21,12:00,No-show,,,
+BOK-002368,MED-10067,Student,2023-11-24,2025-01-26,249,1981.0,PASS-2024-08-27-2368,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-08-21,2024-08-27,17:00,No-show,,,
+BOK-002855,MED-10273,Bas,2022-07-14,2025-01-11,349,1994.0,PASS-2024-10-14-2855,Boxning,Kungsholmen,Marcus Ek,2024-10-12,2024-10-14,07:00,Avbokad,,,
+BOK-001878,MED-10090,Bas,2023-05-25,2025-02-04,349,1989.0,PASS-2024-10-15-1878,HIIT,Lund,Fredrik Berg,2024-10-09,2024-10-15,11:00,Genomförd,,,
+BOK-001002,MED-10175,Bas,2022-10-15,2025-03-06,349,1980.0,PASS-2024-09-20-1002,yoga,Malmö Västra Hamnen,David Chen,2024-09-16,2024-09-20,18:00,Genomförd,,,
+BOK-002668,MED-10169,Student,2023-10-28,2025-02-27,249,1999.0,PASS-2024-09-13-2668,Spinning,Malmö Centrum,Johan Bergström,2024-09-10,2024-09-13,10:00,Genomförd,,,
+BOK-000388,MED-10172,Premium,2022-11-11,2024-12-31,599,1991.0,PASS-2024-12-15-388,HIIT,Stockholm Kungsholmen,Marcus Ek,"December 08, 2024",2024-12-15,09:00,Genomförd,Instruktören verkade ointresserad och omotiverande.,2024-12-15,2.0
+BOK-000497,MED-10011,Student,2023-05-28,2025-06-21,249,1998.0,PASS-2024-11-13-497,Spinning,Malmö Centrum,Johan Bergström,2024-11-08,2024-11-13,19:00,Genomförd,Toppen! Johan är fantastisk som alltid.,2024-11-13,4.0
+BOK-002212,MED-10214,Bas,2023-07-06,2024-10-28,349,1989.0,PASS-2024-10-17-2212,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-10-13,2024-10-17,11:00,Genomförd,Medelmåttigt. Varken bra eller dåligt.,2024-10-18,3.0
+BOK-000770,MED-10245,Bas,2024-02-20,2025-04-14,349,1999.0,PASS-2024-08-04-770,Boxning,Malmö Centrum,Johan Bergström,2024-08-02,2024-08-04,16:00,Genomförd,,,
+BOK-000909,MED-10360,Student,2023-11-22,2025-02-10,249,1987.0,PASS-2024-10-10-909,Yoga,Göteborg Centrum,Maria Santos,2024-10-04,2024-10-10,17:30,Genomförd,Toppen! Maria är fantastisk som alltid.,2024-10-11,5.0
+BOK-002610,MED-10038,Bas,2022-12-04,2024-11-02,349,,PASS-2024-08-02-2610,Styrketräning,STOCKHOLM CITY,Erik Johansson,2024-07-31,2024-08-02,12:00,Klar,,,
+BOK-002300,MED-10256,Student,2023-05-05,2024-12-26,249,1982.0,PASS-2024-07-20-2300,Yoga,Göteborg Centrum,Maria Santos,"July 14, 2024",2024-07-20,18:30,Genomförd,,,
+BOK-001871,MED-10353,Premium,2023-02-07,2025-04-13,-449,1992.0,PASS-2024-11-26-1871,HIIT,Sthlm Kungsholmen,Marcus Ek,2024-11-25,2024-11-26,17:00,Genomförd,,,
+BOK-002841,MED-10278,Bas,2024-04-24,2024-09-18,349,1992.0,PASS-2024-12-30-2841,Yoga,,Lisa Andersson,2024-12-23,2024-12-30,12:00,Genomförd,,,
+BOK-001015,MED-10234,Gold,2023-05-08,2025-03-15,599,1971.0,PASS-2024-11-26-1015,Yoga,Västerås,Klara Svensson,2024-11-25,2024-11-26,10:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-11-27,4.0
+BOK-001064,MED-10208,Bas,2023-12-05,2025-04-27,349,1989.0,PASS-2024-09-04-1064,Indoor Cycling,Södermalm,Anna Lindberg,2024-08-31,2024-09-04,17:30,Genomförd,,,
+BOK-002351,MED-10075,Bas,2024-02-20,2023-09-14,349,1985.0,PASS-2024-09-15-2351,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-09-14,2024-09-15,16:00,Genomförd,Alldeles för hög nivå för nybörjare. Ingen anpassning.,2024-09-16,1.0
+BOK-001094,MED-10225,Student,2023-09-26,2025-04-20,249,1990.0,PASS-2024-12-22-1094,HIIT,Linköping,Emma Larsson,2024/12/20,2024-12-22,17:00,Genomförd,Standard hiit. Inget att klaga på.,2024-12-23,3.0
+BOK-002173,MED-10310,Plus,2023-12-28,2025-04-29,599,1988.0,PASS-2024-10-28-2173,Dans,,Emma Larsson,2024-10-26,2024-10-28,16:00,Avbokad,,,
+BOK-000722,MED-10281,bas,2023-12-26,2025-03-30,349,1991.0,PASS-2024-10-15-722,Pilates,Göteborg C,Maria Santos,2024-10-08,2024-10-15,18:30,Genomförd,"Helt okej pass, inget speciellt.",2024-10-16,3.0
+BOK-001821,MED-10239,Student,2024-03-17,2025-04-27,249,1992.0,PASS-2024-08-31-1821,Dans,Uppsala,Lisa Andersson,2024-08-29,31/08/2024,12:00,Avbokad,,,
+BOK-002899,MED-10332,Bas,2024-04-16,2024-11-21,349,1994.0,PASS-2024-10-10-2899,Styrketräning,Gbg Hisingen,Sara Nilsson,2024-10-03,2024-10-10,20:00,Genomförd,,,
+BOK-002078,MED-10307,Bas,2023-10-25,2024-10-20,349,1998.0,PASS-2024-08-26-2078,Yoga,Västerås,Klara Svensson,2024-08-24,2024-08-26,07:00,Genomförd,Lokalen var smutsig och dåligt ventilerad.,2024-08-27,2.0
+BOK-000429,MED-10233,Bas,2023-04-08,2024-09-21,349,1998.0,PASS-2024-09-09-429,Yoga,Uppsala,Lisa Andersson,2024-09-05,2024/09/09,17:30,Genomförd,Fantastiskt pass! Lisa är så energisk och motiverande.,2024-09-09,5.0
+BOK-002016,MED-10317,Premium,2024-02-12,2025-02-25,599,1991.0,PASS-2024-07-05-2016,Yoga,Uppsala,Lisa Andersson,2024-07-03,2024-07-05,06:30,genomförd,Bästa yogapasset jag varit på. Kommer tillbaka!,2024-07-05,4.0
+BOK-000118,MED-10337,Bas,5 juni 2023,2024-10-05,349,1997.0,PASS-2024-07-29-118,Styrketräning,Stockholm City,Erik Johansson,2024-07-27,2024-07-29,18:30,NO-SHOW,,,
+BOK-001181,MED-10094,Student,2023-04-06,2024-09-11,249,1997.0,PASS-2024-09-21-1181,HIIT,Stockholm City,Erik Johansson,2024-09-16,2024-09-21,19:00,Genomförd,,,
+BOK-001237,MED-10113,Bas,2024-06-01,2025-02-01,349,1971.0,PASS-2024-07-28-1237,Pilates,Västerås,Klara Svensson,2024-07-24,2024/07/28,06:30,Genomförd,,,
+BOK-001706,MED-10123,Student,2024-02-13,2025-04-04,249,1999.0,PASS-2024-08-30-1706,Cykel,Lund,Fredrik Berg,2024-08-24,2024-08-30,17:30,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-08-31,5.0
+BOK-000309,MED-10169,Student,2023-10-28,2025-02-27,249,,PASS-2024-12-21-309,STYRKA,Göteborg Hisingen,Sara Nilsson,2024-12-20,2024-12-21,17:30,Genomförd,,,
+BOK-000229,MED-10012,PREMIUM,2022-07-25,2024-12-24,599,1988.0,PASS-2024-10-06-229,Pilates,GÖTEBORG CENTRUM,Maria Santos,2024-09-30,2024-10-06,08:00,Avbokad,,,
+BOK-003000,MED-10320,bas,2024-05-06,2025-07-07,349,,PASS-2024-12-18-3000,Pilates,Västerås,Klara Svensson,2024-12-17,2024-12-18,18:30,Klar,,,
+BOK-000797,MED-10052,Student,2023-04-16,2025-02-19,249,1995.0,PASS-2024-12-27-797,Spin,Stockholm Södermalm,Anna Lindberg,2024-12-23,2024-12-27,20:00,Genomförd,,,
+BOK-001902,MED-10013,Bas,2023-10-07,2024-10-20,349,2006.0,PASS-2024-11-11-1902,HIIT,Linköping,Emma Larsson,2024-11-09,2024-11-11,19:00,Genomförd,,,
+BOK-000109,MED-10146,Premium,2023-07-02,2025-02-08,599,1996.0,PASS-2024-07-21-109,Yoga,Malmö Västra Hamnen,David Chen,2024-07-15,21/07/2024,18:30,Genomförd,"Musiken var alldeles för hög, kunde inte höra instruktionerna.",2024-07-22,2.0
+BOK-001172,MED-10074,Student,2024-05-23,2025-04-21,249,2006.0,PASS-2024-10-11-1172,HIIT,City,Erik Johansson,2024-10-08,2024-10-11,17:30,Genomförd,,,
+BOK-001933,MED-10297,Bas,2022-12-24,2025-06-29,349,1991.0,PASS-2024-12-15-1933,Spinning,Malmö Centrum,,2024-12-12,2024-12-15,11:00,Genomförd,,,
+BOK-000820,MED-10006,Bas,2023-12-25,2024-12-18,349,1978.0,PASS-2024-07-11-820,HIIT,Stockholm City,Erik Johansson,2024-07-08,2024-07-11,17:00,Genomförd,Fantastiskt pass! Erik är så energisk och motiverande.,2024-07-11,4.0
+BOK-001077,MED-10285,Student,2022-08-11,2025-02-09,249,2006.0,PASS-2024-09-06-1077,HIIT,,Anna Lindberg,2024-09-05,2024-09-06,20:00,Genomförd,,,
+BOK-001391,MED-10183,Premium,2024-04-07,2025-06-09,599,1986.0,PASS-2024-12-06-1391,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-12-04,2024-12-06,07:00,Genomförd,,,
+BOK-000463,MED-10026,Bas,2023-03-27,2025-07-01,349,2003.0,PASS-2024-10-12-463,Spinning,Örebro,Oscar Holm,2024-10-09,2024-10-12,18:00,No-show,,,
+BOK-002645,MED-10006,Bas,2023-12-25,2024-12-18,349,1920.0,PASS-2024-11-06-2645,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-11-04,2024-11-06,18:30,Genomförd,"Underbar träning, kommer definitivt igen!",2024-11-06,5.0
+BOK-002555,MED-10265,Bas,2023-08-04,2024-08-22,349,1999.0,PASS-2024-10-18-2555,Dans,UPPSALA,Lisa Andersson,2024-10-14,2024-10-18,16:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-10-19,5.0
+BOK-002698,MED-10210,Student,2023-01-15,2024-10-15,249,1986.0,PASS-2024-10-23-2698,HIIT,Linköping,Emma Larsson,2024-10-22,2024-10-23,17:00,Genomförd,"Helt okej pass, inget speciellt.",2024-10-24,3.0
+BOK-000857,MED-10193,Premium,"September 16, 2022",2024-10-19,599,2004.0,PASS-2024-09-19-857,HIIT,Linköping,Emma Larsson,2024-09-15,2024-09-19,17:00,Klar,,,
+BOK-000636,MED-10345,Premium,2024-03-15,2025-05-18,599,1992.0,PASS-2024-11-05-636,Spinning,Stockholm Södermalm,Anna Lindberg,2024-11-01,2024-11-05,17:30,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-11-05,5.0
+BOK-001982,MED-10012,Premium,2022-07-25,"December 24, 2024",599,1988.0,PASS-2024-08-20-1982,Spinning,Göteborg Hisingen,Sara Nilsson,2024-08-14,2024-08-20,16:00,Avbokad,,,
+BOK-002811,MED-10314,Bas,2022-07-21,2025-01-06,349,1980.0,PASS-2024-10-28-2811,Vinyasa,MALMÖ VÄSTRA HAMNEN,David Chen,2024-10-24,2024-10-28,12:00,Genomförd,,,
+BOK-002380,MED-10308,Bas,2023-06-20,2024-12-05,349,1988.0,PASS-2024-12-14-2380,Styrketräning,Sthlm City,Erik Johansson,2024-12-09,2024-12-14,17:00,no-show,,,
+BOK-001202,MED-10252,BAS,2022-07-20,2024-09-03,349,1972.0,PASS-2024-08-22-1202,Styrketräning,Örebro,Oscar Holm,2024-08-17,2024-08-22,17:30,No-show,,,
+BOK-000357,MED-10041,Student,2023-11-09,2025-02-05,249,1995.0,PASS-2024-08-14-357,Yoga,Göteborg Centrum,Maria Santos,2024-08-12,14/08/2024,20:00,Genomförd,,,
+BOK-000133,MED-10046,Premium,2023-06-29,2024-10-05,599,1993.0,PASS-2024-12-31-133,HIIT,Stockholm City,Erik Johansson,2024-12-30,2024-12-31,17:30,Genomförd,,,
+BOK-002706,MED-10106,Premium,2023-03-13,2024-08-30,599,1974.0,PASS-2024-12-02-2706,Boxning,Sthlm Kungsholmen,Marcus Ek,2024-11-29,2024-12-02,18:00,Ej närvarande,,,
+BOK-002171,MED-10039,Premium,2022-11-17,2024-11-22,599,1987.0,PASS-2024-11-25-2171,Spinning,Stockholm Södermalm,Anna Lindberg,2024-11-23,2024-11-25,09:00,Genomförd,,,
+BOK-001686,MED-10164,Premium,2022-11-28,2025-05-04,599,1986.0,PASS-2024-08-27-1686,Dance,Uppsala,Lisa Andersson,2024-08-22,2024-08-27,12:00,Genomförd,,,
+BOK-002261,MED-10160,Premium,2023-05-19,2025-02-11,599,1998.0,PASS-2024-10-24-2261,Spinning,Hisingen,Sara Nilsson,2024-10-19,2024-10-24,17:00,Genomförd,,,
+BOK-000362,MED-10020,Premium,2022-10-30,2025-02-07,599,1978.0,PASS-2024-11-12-362,HIIT,Stockholm City,Erik Johansson,2024-11-10,2024-11-12,12:00,Genomförd,,,
+BOK-000975,MED-10229,Premium,2023-08-01,"June 26, 2025",599,1984.0,PASS-2024-07-02-975,HIIT,STOCKHOLM SÖDERMALM,Anna Lindberg,2024-06-28,2024-07-02,07:30,genomförd,Toppen! Anna är fantastisk som alltid.,2024-07-03,5.0
+BOK-000029,MED-10211,Bas,2023-07-09,2024-10-22,349,1981.0,PASS-2024-08-22-029,Spinning,Stockholm Södermalm,Anna Lindberg,2024-08-21,2024-08-22,18:00,Genomförd,,,
+BOK-002670,MED-10072,Bas,4 september 2023,2025-03-20,349,1987.0,PASS-2024-10-27-2670,HIIT,Lund,Fredrik Berg,2024-10-23,2024-10-27,06:30,Genomförd,"Underbar träning, kommer definitivt igen!",2024-10-27,5.0
+BOK-000022,MED-10353,Premium,2023-02-07,2025-04-13,599,1992.0,PASS-2024-12-28-022,HIIT,Stockholm City,Erik Johansson,2024-12-26,2024-12-28,11:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-12-29,4.0
+BOK-001085,MED-10373,Bas,2022-12-10,2024-10-16,349,1980.0,PASS-2024-12-08-1085,Spinning,Göteborg Hisingen,Sara Nilsson,2024-12-03,2024-12-08,18:00,Genomförd,,,
+BOK-002453,MED-10117,Premium,2022-08-23,2025-07-13,599,,PASS-2024-11-03-2453,yoga,Västerås,Klara Svensson,2024-10-30,2024-11-03,10:00,Genomförd,,,
+BOK-001051,MED-10101,Bas,2022-11-30,2025-02-15,349,1994.0,PASS-2024-10-03-1051,HIIT,Stockholm City,Erik Johansson,2024-09-29,2024-10-03,07:00,No-show,,,
+BOK-000414,MED-10153,Bas,2023-09-13,06/03/2025,349,1991.0,PASS-2024-10-24-414,Spinning,Örebro,Oscar Holm,2024-10-22,2024-10-24,07:00,Genomförd,,,
+BOK-002189,MED-10044,Premium,2022-11-12,2025-02-20,599,2001.0,PASS-2024-12-24-2189,Pilates,Malmö VH,David Chen,2024-12-18,2024-12-24,09:00,Genomförd,"Rörig planering, visste inte vad vi skulle göra.",2024-12-24,2.0
+BOK-000451,MED-10136,Bas,2023-03-29,2025-03-17,349,1999.0,PASS-2024-12-02-451,H.I.I.T,Linköping C,Emma Larsson,2024-11-30,2024-12-02,18:30,Avbokad,,,
+BOK-000043,MED-10178,Gold,2023-11-17,2025-02-07,599,1995.0,PASS-2024-07-09-043,HIIT,Stockholm City,Erik Johansson,2024-07-08,2024-07-09,18:30,Genomförd,,,
+BOK-001403,MED-10223,Student,2023-12-27,2025/05/12,249,2006.0,PASS-2024-07-14-1403,Styrkepass,Göteborg Hisingen,Sara Nilsson,2024-07-07,2024-07-14,17:30,Genomförd,,,
+BOK-001065,MED-10203,Bas,2023-07-26,2025-03-24,349,1980.0,PASS-2024-09-26-1065,Spin,Göteborg Hisingen,Sara Nilsson,2024-09-20,2024/09/26,17:30,Genomförd,,,
+BOK-001057,MED-10041,Student,2023-11-09,2025-02-05,249,1995.0,PASS-2024-08-01-1057,Spinning,Hisingen,Sara Nilsson,2024-07-31,2024-08-01,18:00,Klar,,,
+BOK-000278,MED-10104,Bas,2023-07-16,2025-04-10,349,1992.0,PASS-2024-08-30-278,HIIT,Södermalm,Anna Lindberg,2024-08-28,2024-08-30,17:00,Genomförd,Bra lokal men instruktören var lite seg.,2024-08-31,3.0
+BOK-001417,MED-10208,Grund,2023-12-05,2025-04-27,349,1989.0,PASS-2024-09-14-1417,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-09,2024-09-14,07:00,Genomförd,Bra lokal men instruktören var lite seg.,2024-09-15,3.0
+BOK-000596,MED-10369,STUDENT,2022-10-14,2025-08-04,-349,1993.0,PASS-2024-09-07-596,Pilates,Västerås,Klara Svensson,2024-09-03,2024-09-07,17:30,Genomförd,,,
+BOK-002480,MED-10111,Basic,2023-11-18,2025-04-02,349,1992.0,PASS-2024-09-20-2480,Spinning,Örebro,Oscar Holm,2024-09-13,20 september 2024,19:00,Genomförd,"Helt okej pass, inget speciellt.",2024-09-21,3.0
+BOK-002847,MED-10117,Premium,2022-08-23,2025-07-13,599,1998.0,PASS-2024-12-19-2847,Boxning,Stockholm Kungsholmen,Marcus Ek,2024-12-12,2024-12-19,10:00,Genomförd,,,
+BOK-000785,MED-10252,Bas,2022-07-20,2024-09-03,349,1972.0,PASS-2024-10-08-785,Styrketräning,,Oscar Holm,2024-10-05,2024-10-08,10:00,No-show,,,
+BOK-000521,MED-10156,Bas,2023-05-14,2025-03-21,349,1975.0,PASS-2024-08-27-521,Yoga,Västerås,Klara Svensson,2024-08-22,2024-08-27,18:30,Ej närvarande,,,
+BOK-002946,MED-10034,Premium,2022-11-27,2025-05-28,599,1987.0,PASS-2024-07-10-2946,Dans,Uppsala,Lisa Andersson,2024-07-07,2024-07-10,19:00,Genomförd,,,
+BOK-002457,MED-10176,Bas,2023-03-24,2025-06-07,349,,PASS-2024-08-28-2457,HIIT,Stockholm City,Erik Johansson,2024-08-25,2024-08-28,07:30,Genomförd,"För många deltagare, ingen plats att röra sig.",2024-08-29,2.0
+BOK-002362,MED-10026,Bas,2023-03-27,2025-07-01,349,2003.0,PASS-2024-09-23-2362,Spinning,Örebro,Oscar Holm,2024-09-21,2024-09-23,20:00,Genomförd,Professionellt och välorganiserat pass.,2024-09-23,4.0
+BOK-002396,MED-10073,Premium,2023-02-19,2024-08-26,0,1982.0,PASS-2024-09-28-2396,HIIT,Stockholm City,Erik Johansson,2024-09-26,2024-09-28,18:30,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-09-29,4.0
+BOK-002116,MED-10179,Premium,2023-11-25,2024-12-06,599,1970.0,PASS-2024-11-08-2116,Styrketräning,Göteborg Hisingen,Sara Nilsson,2024-11-01,"November 08, 2024",18:00,No-show,,,
+BOK-001353,MED-10365,Bas,2023-05-02,2023-03-02,349,1993.0,PASS-2024-10-29-1353,Yoga,Uppsala,Lisa Andersson,2024-10-28,2024-10-29,17:00,Genomförd,Härlig stämning i gruppen. Kul träning!,2024-10-29,4.0
+BOK-000598,MED-10100,Premium,2023-08-21,2025-02-25,599,2001.0,PASS-2024-12-14-598,spinning,Malmö city,Johan Bergström,2024-12-07,2024-12-14,19:00,Genomförd,,,
+BOK-002873,MED-10348,Premium,2023-11-12,2024-10-14,599,1998.0,PASS-2024-11-29-2873,Yoga,Västerås,Klara Svensson,2024-11-23,2024-11-29,17:30,genomförd,"Underbar träning, kommer definitivt igen!",2024-11-30,5.0
+BOK-002815,MED-10239,Student,2024-03-17,2024-12-29,249,1992.0,PASS-2024-09-05-2815,yoga,Malmö Västra Hamnen,David Chen,29/08/2024,2024-09-05,18:30,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-09-05,5.0
+BOK-002098,MED-10111,Bas,2023-11-18,2025-04-02,349,1992.0,PASS-2024-08-02-2098,yoga,Göteborg Centrum,Maria Santos,31/07/2024,2024-08-02,06:30,genomförd,,,
+BOK-002267,MED-10223,Student,2023-12-27,2025-05-12,249,,PASS-2024-07-19-2267,HIIT,Lund,Fredrik Berg,2024-07-13,2024-07-19,19:00,Genomförd,,,
+BOK-002193,MED-10347,Bas,2022-08-11,2025-01-24,349,2006.0,PASS-2024-12-27-2193,Yoga,Malmö Västra Hamnen,David Chen,2024-12-24,2024-12-27,18:00,Genomförd,Lokalen var smutsig och dåligt ventilerad.,2024-12-27,2.0
+BOK-000675,MED-10308,Bas,2023-06-20,2025-04-19,349,1988.0,PASS-2024-07-09-675,yoga,Göteborg C,Maria Santos,05/07/2024,2024-07-09,07:00,Genomförd,"Lugn och avslappnande yoga, precis vad jag behövde.",2024-07-09,5.0
+BOK-002717,MED-10124,Premium,2022-12-19,2025-04-24,599,1989.0,PASS-2024-09-09-2717,BOXNING,Malmö Centrum,Johan Bergström,2024-09-07,2024-09-09,16:00,Genomförd,,,
+BOK-000217,MED-10306,Bas,2024-02-05,2025-07-31,349,1979.0,PASS-2024-08-23-217,HIIT,Stockholm Kungsholmen,Marcus Ek,2024-08-21,2024-08-23,19:00,No-show,,,
+BOK-000530,MED-10284,Bas,2023-05-27,2024-10-19,349,1981.0,PASS-2024-11-16-530,Dans,Uppsala,Lisa Andersson,2024-11-12,2024-11-16,12:00,Genomförd,,,
+BOK-002068,MED-10206,Bas,2023-10-11,2025-02-15,349,1985.0,PASS-2024-12-04-2068,Boxning,Malmö Centrum,Johan Bergström,2024-12-02,2024-12-04,08:00,No-show,,,
+BOK-002613,MED-10217,Premium,2023-01-08,2024-09-09,599,,PASS-2024-10-17-2613,HIIT,Lund C,Fredrik Berg,2024-10-11,2024-10-17,09:00,Genomförd,,,
+BOK-001759,MED-10365,Bas,2023-05-02,2025-03-27,349,1993.0,PASS-2024-10-28-1759,Yoga,Göteborg C,,2024-10-27,2024-10-28,17:30,Genomförd,Fantastiskt pass! Maria är så energisk och motiverande.,2024-10-26,5.0
+BOK-000580,MED-10093,Bas,2023-10-03,2024-11-21,349,1992.0,PASS-2024-07-22-580,Pilates,Malmö Västra Hamnen,David Chen,2024-07-17,2024-07-22,18:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-07-22,5.0
+BOK-001075,MED-10185,Premium,2023-08-15,2025-04-27,599,1984.0,PASS-2024-08-01-1075,Spinning,Malmö Centrum,Johan Bergström,2024-07-29,2024-08-01,18:00,Genomförd,"Godkänt pass, lite kort kanske.",2024-08-01,3.0
+BOK-002079,MED-10102,Student,2023-09-08,2024/11/29,249,1992.0,PASS-2024-09-15-2079,Spinning,Malmö Centrum,Johan Bergström,2024-09-13,2024-09-15,19:00,Genomförd,,,
+BOK-002087,MED-10165,Bas,2022-10-04,2025-01-14,349,1984.0,PASS-2024-12-29-2087,HIIT,LUND,Fredrik Berg,2024-12-22,2024-12-29,17:00,Genomförd,Bästa hiitpasset jag varit på. Kommer tillbaka!,2024-12-29,4.0
+BOK-000585,MED-10346,Bas,2023-11-16,2025-02-24,349,2003.0,PASS-2024-10-16-585,HIIT,Sthlm Södermalm,Anna Lindberg,2024-10-10,2024-10-16,09:00,Genomförd,,,
+BOK-001544,MED-10370,Plus,2022-07-31,2025-08-04,599,1990.0,PASS-2024-09-20-1544,HIIT,Stockholm Kungsholmen,Marcus Ek,2024/09/16,2024-09-20,06:30,Klar,,,
+BOK-002638,MED-10115,Bas,2023-03-07,2022-11-13,349,1986.0,PASS-2024-09-19-2638,Pilates,Malmö Västra Hamnen,David Chen,2024-09-13,"September 19, 2024",07:00,Genomförd,,,
+BOK-000268,MED-10108,Bas,2022-07-22,"February 15, 2025",349,1987.0,PASS-2024-09-21-268,Dans,Uppsala,Lisa Andersson,2024-09-16,2024-09-21,10:00,Genomförd,,,
+BOK-001996,MED-10237,Premium,2023-03-09,2024-12-29,599,1988.0,PASS-2024-09-29-1996,Yoga,Malmö Västra Hamnen,David Chen,2024-09-28,2024-09-29,20:30,Genomförd,Bra lokal men instruktören var lite seg.,2024-09-29,3.0
+BOK-001646,MED-10316,Premium,2022-12-30,2024-12-16,599,1984.0,PASS-2024-11-07-1646,HIIT,Stockholm Södermalm,Anna Lindberg,2024-11-03,2024-11-07,17:00,Genomförd,"Fungerar, men jag föredrar morgonpassen.",2024-11-08,3.0
+BOK-000974,MED-10007,Student,2024-02-28,2024-09-25,249,1980.0,PASS-2024-08-22-974,Dans,Linköping,Emma Larsson,2024-08-21,2024-08-22,11:00,Genomförd,Instruktören verkade ointresserad och omotiverande.,2024-08-22,2.0
+BOK-002485,MED-10371,Bas,2024-03-07,2025-02-04,349,1988.0,PASS-2024-07-05-2485,Yoga,,Klara Svensson,2024-07-04,2024-07-05,12:00,Genomförd,Toppen! Klara är fantastisk som alltid.,2024-07-05,5.0
+BOK-001510,MED-10075,Bas,2024-02-20,2024-10-06,349,1985.0,PASS-2024-09-14-1510,Dans,Linköping,Emma Larsson,2024-09-10,2024-09-14,07:00,Genomförd,,,
+BOK-000346,MED-10242,Bas,19 januari 2023,2025-06-03,349,1982.0,PASS-2024-11-12-346,HIIT,Sthlm Södermalm,Anna Lindberg,2024-11-10,2024-11-12,12:00,Genomförd,"Lugn och avslappnande hiit, precis vad jag behövde.",2024-11-12,4.0
+BOK-001205,MED-10316,Premium,30 december 2022,2024-12-16,599,1940.0,PASS-2024-11-04-1205,Styrketräning,City,Erik Johansson,2024-10-29,2024-11-04,16:00,Avbokad,,,
+BOK-001004,MED-10295,Bas,2023-09-04,2024-09-25,349,,PASS-2024-09-30-1004,Spinning,Gbg Hisingen,Sara Nilsson,2024-09-28,2024-09-30,16:00,Avbokad,,,
+BOK-002319,MED-10022,Premium,2022-11-05,2025-06-01,599,1992.0,PASS-2024-12-28-2319,HIIT,Lund C,Fredrik Berg,2024-12-22,2024-12-28,07:30,Genomförd,,,
+BOK-002346,MED-10119,Premium,2024-05-07,2024-09-22,599,1986.0,PASS-2024-11-05-2346,Pilates,Västerås,Klara Svensson,2024-10-30,2024-11-05,07:00,Genomförd,,,
+BOK-002594,MED-10354,BAS,2022-10-05,2022-08-28,349,2026.0,PASS-2024-10-19-2594,HIIT,Stockholm Södermalm,Anna Lindberg,2024-10-13,2024/10/19,17:00,Genomförd,Utmanande men roligt. Lagom nivå för mig.,2024-10-20,5.0
+BOK-002822,MED-10228,Bas,2023-06-19,2025-05-16,349,1993.0,PASS-2024-11-11-2822,HIIT,Linköping,Emma Larsson,2024-11-06,11 november 2024,19:00,No-show,,,
+BOK-002230,MED-10030,Premium,23 december 2023,2023-06-26,599,1991.0,PASS-2024-09-26-2230,Styrketräning,Stockholm City,Erik Johansson,"September 21, 2024",2024-09-26,20:00,Genomförd,Perfekt tempo och bra musik. Rekommenderas!,2024-09-27,4.0
+BOK-002254,MED-10085,Bas,2024-04-17,2024-11-02,349,1992.0,PASS-2024-12-09-2254,Boxning,MALMÖ CENTRUM,Johan Bergström,2024-12-03,2024-12-09,12:00,No-show,,,
+BOK-002460,MED-10210,Student,2023-01-15,2024-10-15,249,1986.0,PASS-2024-10-25-2460,Högintensiv,Lund,Fredrik Berg,2024-10-21,2024-10-25,19:00,Genomförd,,,
+BOK-000166,MED-10234,Premium,2023-05-08,15 mars 2025,599,1971.0,PASS-2024-07-17-166,Styrketräning,Stockholm City,Erik Johansson,2024-07-15,2024-07-17,12:00,Genomförd,Bra lokal men instruktören var lite seg.,2024-07-18,3.0
+BOK-002494,MED-10210,Student,2023-01-15,2024-10-15,249,1986.0,PASS-2024-09-16-2494,Spinning,Göteborg Hisingen,Sara Nilsson,2024-09-15,2024-09-16,18:00,Genomförd,,,
+BOK-000737,MED-10239,Student,2024-03-17,2025-04-27,249,1992.0,PASS-2024-08-18-737,Dans,Uppsala,Lisa Andersson,17/08/2024,2024-08-18,19:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-08-19,5.0
+BOK-001721,MED-10350,Premium,2023-01-13,2025-04-24,599,1991.0,PASS-2024-11-08-1721,Intervall,Stockholm City,Erik Johansson,2024-11-02,2024-11-08,08:00,Genomförd,,,
+BOK-000941,MED-10262,Bas,2022-07-27,2024-11-08,349,2006.0,PASS-2024-12-24-941,Yoga,Malmö Västra Hamnen,David Chen,2024-12-22,24 december 2024,11:00,Genomförd,"Lugn och avslappnande yoga, precis vad jag behövde.",2024-12-24,5.0
+BOK-002062,MED-10027,Premium,2023-02-08,2025-05-27,599,1987.0,PASS-2024-11-01-2062,Yoga,Uppsala,Lisa Andersson,2024-10-28,2024-11-01,19:00,Genomförd,Instruktören var superbra på att korrigera tekniken.,2024-11-01,4.0
+BOK-002991,MED-10183,Premium,2024-04-07,2025-06-09,599,1986.0,PASS-2024-10-23-2991,Pilates,Västerås,Klara Svensson,2024-10-19,2024-10-23,17:00,Genomförd,"Underbar träning, kommer definitivt igen!",2024-10-23,5.0
+BOK-002185,MED-10095,Premium,2023-04-07,2024-10-20,599,2001.0,PASS-2024-07-22-2185,Spinning,Lund,Fredrik Berg,2024-07-17,22/07/2024,20:30,Genomförd,,,
+BOK-002235,MED-10358,Bas,2022-10-16,2025-06-09,349,1988.0,PASS-2024-08-29-2235,Spinning,Örebro,Oscar Holm,2024-08-26,2024-08-29,19:00,Genomförd,,,
